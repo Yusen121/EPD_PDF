@@ -1,0 +1,16 @@
+Impact category,Unit,"AC P(ACbase),ACP(ACbase）withRA,AC16PD(ACbase and surf),AC 16PD(ACbase and surf)with RA"
+AC32PS;AC22PS;AC16PS;AC32PN;AC22PN;AC16PN; AC32PL;AC22PL;AC16PL;AC16PD
+A1-A3,C1,C2,C3,C4,D
+Climate change-Total,kg CO2 eq.,59.64,1.21,5.20,0.70,0.00,-25.31
+Climate change-Fossil,kg CO2 eq.,59.51,1.21,5.19,0.70,0.00,-25.25
+Climate change-Biogenic,kg CO2 eq.,1.11E-01,2.77E-04,3.99E-03,1.60E-04,0.00,-4.24E-02
+Climate change-Land use and land,kg CO2 eq.,2.27E-02,1.36E-04,2.44E-03,7.85E-05,0.00,-1.39E-02
+use change,,2.19E-06,1.92E-08,1.14E-07,1.11E-08,,
+Ozone depletion Acidification,kg CFC 11 eq. mol H+ eq.,2.02E-01,1.12E-02,1.75E-02,6.47E-03,0.00 0.00,-8.83E-07 -1.35E-01
+Eutrophication aquaticfreshwater,kg P eq.,4.89E-03,3.70E-05,3.69E-04,2.14E-05,0.00,-3.33E-03
+Eutrophication aquatic marine,kg N eq.,5.92E-02,5.18E-03,6.05E-03,3.00E-03,0.00,-3.66E-02
+Eutrophication terrestrial,mol N eq.,6.49E-01,5.63E-02,6.39E-02,3.26E-02,0.00,-4.05E-01
+Photochemical ozone formation,kg NMVOC eq.,2.34E-01,1.67E-02,2.72E-02,9.65E-03,0.00,-1.28E-01
+Depletionofabioticresources- minerals and metals*,kg Sb eq.,1.30E-04,4.22E-07,1.40E-05,2.44E-07,0.00,-7.96E-05
+Depletion of abioticresources-fossil,"MJ,net calorific value",2589.73,15.69,74.37,9.07,0.00,-1929.21
+fuels* Water use*,m3 world eq. deprived,22.99,0.03,0.36,0.02,0.00,-19.56

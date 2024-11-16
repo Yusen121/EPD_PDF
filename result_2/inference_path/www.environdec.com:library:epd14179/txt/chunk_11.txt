@@ -1,0 +1,3 @@
+# Validation of the data:  
+
+Primary data collection by the manufacturer are based on the required materials and energy to  manufacture the asphalt product. The data of the raw materials are collected per declared unit (1 tonne).  All necessary life cycle inventories for the basic materials are available in the database or EPDs. No  generic selected datasets (secondary data) used are older than ten years. No specific data collected is  older than five years and represent a period of one year. The representative ness, completeness,  reliability and consistency are judged as good.

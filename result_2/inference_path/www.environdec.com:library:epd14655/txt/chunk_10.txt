@@ -1,0 +1,5 @@
+# Cut-off rules:  
+
+In relation to EN  $15804{:}2012{+}\mathsf{A}2{:}2019/\mathsf{A C}{:}2021$ , the cut-off criteria for input and output exclusion for  the insufficient input data or data gaps for the asphalt mixture manufacturing process, is  $1\%$  of the total  primary energy usage and  $1\%$  of the total mass input of the process. The total of sum of neglected input  flows is not exceed  $5\%$  of energy usage and mass per stage (A1-A3, C1-C4 and D). The following cut- offs have been made:  
+
+•   The packaging for the input materials used in the production process are negligible.  •   Lubricants and pigments used in asphalt plant production are negligible;  •   Water is not used in the asphalt plant production;  •   Asphalt mixtures as products have been grouped based on mass allocation of raw materials.

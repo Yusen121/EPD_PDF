@@ -1,0 +1,14 @@
+# LCA Information  
+
+![](images/536a9628e86e8ebbcbcb8a8e34e3ea2db93cb322e4ca490e285143c8bc611616.jpg)  
+( $\mathsf{X}=$  Module included, - $=$  Module not included)  
+
+LCA Results 
+![](images/ea4f3f44eb3d973e9a36afcce5b296d209f091c9262e1072de8263ca6a9b3779.jpg)  
+
+![](images/3e1546433147776b2356144b895a7fc4e75a7f1bc60373ff1f4bf91f17f28c88.jpg)  
+
+Waste & Output Flows 
+![](images/3de95f273e527b295598a97a156b417e3d80bd453e18732f5968da04eed16eee.jpg)  
+
+![](images/d1d06a2c949bcf93e0f5c6d499f1789cc329416cb2b15936a537e11b1ddb9588.jpg)

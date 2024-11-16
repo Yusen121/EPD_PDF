@@ -1,0 +1,20 @@
+# Results of the environmental performance indicators  
+
+The estimated impact results are only relative statements which do not indicate the end points of the  impact categories, exceeding threshold values, safety margins or risks.  
+
+All results are calculated on the declared unit, which is 1 tonne of studied product in this study.  
+
+Mandatory impact category indicators according to EN 15804  Results per tonne of Polyethylene Wood-Like Foam Board  
+![](images/df9150f5f5225bf81e68582bf050b2d88853eacf773adc905ee520c36cf2ebf7.jpg)  
+
+Additional mandatory and voluntary impact category indicators  
+![](images/0b22ba91eaa969146017b5fa91823944e1a3a08f17b75d6ede7012ba65d2c3a4.jpg)  
+
+To be noted, the contribution of the GWP-GHG from post-consumer materials of the HDPE foam product  is $34.87\%$  in A1-A3 stage. In particular, The GWP-GHG of secondary HDPE is  $0.654\;\mathsf{k g}\,\mathsf{C O}_{2}$ eq. per kg  material. They are bought from the third parties and the environmental burden from the waste material  of last life cycle to the ready-to-use secondary material is considered.  
+
+Resource use indicators  
+![](images/bf8521d092d2573a5f13e036698a4bea3667684502d9e875ad1bf859ec9fb7ee.jpg)  
+
+Waste indicators  
+![](images/78d54ddb3bfb35ae05a9aead90cf183b46bf493f481140c25c2caa1075778ae8.jpg)  
+

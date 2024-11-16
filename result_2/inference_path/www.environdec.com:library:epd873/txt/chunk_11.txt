@@ -1,0 +1,13 @@
+# Technical Specifications  
+
+![](images/e8a1d80b12e3dce1576862ee7a4c0486187a4604fb5b827438f2c8543b60a3e0.jpg)  
+
+![](images/37d23de0a45b9553549cdc276258674b34210bcf6d77b465e5fb0dfb0ef5637c.jpg)  
+
+# Product Stage  
+
+# Use Stage  
+
+A1-A3:  Represents raw material supply which includes raw material  extraction and pre-treatment processes before production. A2 relevant to  raw material transportation to the plant and A3 refers to the impact occurs  from manufacturing process.  
+
+![](images/d5196d0d66664fd3e61f03a49ec8e37a695c19409a7c2edb20619007b91403e5.jpg)

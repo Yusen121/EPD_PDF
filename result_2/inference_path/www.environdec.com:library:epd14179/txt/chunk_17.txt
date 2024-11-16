@@ -1,0 +1,23 @@
+# References  
+
+Kleizienė, R. (2024). LCA Report, Road Research Institute of Vilnius TECT.  
+
+Eurobitume. (2021a). 2021 update to the Eurobitume Life-Cycle Inventory For Bitumen (Version 3.1).  Eurobitume  
+
+https://www.eurobitume.eu/fileadmin/Feature/LCI/EUB2975.001 LC I Update 2020 01 LR pag  es.pdf  
+
+Eurobitume. (2021b). Life Cycle Inventory 2021 update, without Infrastructure - Bitumen [Excelfil].  Eurobitume  
+
+The Australasian EPD Programme Ltd (2019). Appendix to product category rules for asphalt mixtures  – Australia.  
+
+EN 15804:2012 $^+$ A2:2020 Sustainability of construction works – Environmental product declarations –  Core rules for product category of construction products  
+
+EN ISO 14025:2010 Environmental labels and declarations – Type III environmental declarations –  Principles and procedures  
+
+ISO 14040:2006: Environmental management - Life cycle assessment — Principles and framework   ISO 14044:2006: Environmental management — Life cycle assessment — Requirements and  guidelines  
+
+EN 15643-5:2017: Sustainability of construction works - Sustainability assessment of buildings and  civil engineering works - Part 5: Framework on specific principles and requirement for civil engineering  works $->$  parallel standard  
+
+ISO/FDIS 21931-2:2018 Sustainability in buildings and civil engineering works -Framework for  methods of assessment of the sustainability performance of construction works - Part 2: Civil  engineering works.  
+
+Product category rules (PCR) (2024) Construction products PCR 2019:14, Version 1.3.4 Valid until  2025-06-20  

@@ -1,0 +1,13 @@
+# B1-B7 - THE USE STAGE  
+
+The use stage consist of seven stages as, B1: Use, B2: Maintenance, B3: Repair, B4: Replacement, B5: Refurbishment, B6:  Operational Energy Use, B7: Operational Water Use. No material and energy or technical operations are required during the  use stages until the end of life. Therefore, the product has no impact on this stage.  
+
+# C1 - Deconstruction / Demolition  
+
+The deconstruction and demolition of the product takes place with the demolition of the whole building. It is assumed that  energy for the binder is minor compared to the other materials of the building, thus the environmental impact of this module  is set to be zero.  
+
+# C2 - Waste Transport  
+
+A distance of 100 km by lorry 16-32 tonnes from construction/demolition sites to disposal sites has been chosen as a  conservative assumption.  
+
+![](images/b1a6ea4f27a8ee113802fd7ecb958273d6dfd9a1e8fd29192c3d9bb634dae237.jpg)

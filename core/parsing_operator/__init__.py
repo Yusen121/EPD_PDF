@@ -1,0 +1,4 @@
+from core.parsing_operator.image_operator import ImageOperate
+from core.parsing_operator.pdf_operator import PDFOperator
+from core.parsing_operator.md_operator import MdOperator
+from core.parsing_operator.txt_operator import TxtOperator

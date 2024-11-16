@@ -1,0 +1,10 @@
+Test Item,TestStandard,Test Result
+Anti-BacteriaPerformance,JISZ2801:2010,≥99%
+Anti-FungalPerformance,ISO16869:2008,Grade 0
+UV Aging (2000 hours),ISO4892-2:2013,△E:1.83 Grey scale: 4
+"Phthalates,flameretardants",GB/T35612-2017,Not detected
+Volatile organic compounds (day 3),GB/T35612-2017,Not detected
+Surfacepeelingpower,J/CT2781-2023,>3000N/m
+Boilingwaterresistance,120 hours,No detachment
+Resistancetohotandcold test,"-20°Cto60°C,1000 hours cycling",No detachment
+Anti-BacteriaPerformance,JISZ2801:2010,≥99%

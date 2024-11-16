@@ -1,0 +1,26 @@
+COREENVIRONMENTALIMPACTSPER1m²ofPLASTERBOARD
+Mandatoryindicators,Unit,A1-A3,A4,A5,B1-B7,C1,C2,C3,C4,D
+Global Warming,Total,kg COz eq.,"1,06E+00","3,95E-01","1,46E-01","0,0OE+00","0,0OE+00","1,59E-01","0,0OE+00","5,17E-02","0,00E+00"
+Fossil,kg CO2 eq.,"1,19E+00","3,95E-01","1,15E-04","0,00E+00","0,00E+00","1,59E-01","0,00E+00","5,16E-02","0,00E+00"
+Biogenic,kg CO2 eq.,"-1,35E-01","1,19E-04","1,46E-01","0,00E+00","0,0OE+00","5,09E-05","0,0OE+00","2,26E-05","0,00E+00"
+Potential,Luluc,kg CO2 eq.,"2,66E-03","1,94E-04","8,34E-08","0,00E+00","0,00E+00","7,77E-05","0,00E+00","3,12E-05","0,00E+00"
+ODP,kg CFC-11 eq.,"4,01E-08","6,18E-09","2,71E-12","0,00E+00","0,0OE+00","3,48E-09","0,00E+00","1,50E-09","0,00E+00"
+AP,mol H+ eq.,"5,74E-03","1,43E-03","8,15E-07","0,00E+00","0,00E+00","6,58E-04","0,00E+00","3,89E-04","0,00E+00"
+EP-Freshwater,kg Peq.,"7,86E-04","3,21E-05","3,00E-08","0,0OE+00","0,0OE+00","1,12E-05","0,00E+00","4,30E-06","0,00E+00"
+EP - Marine,kg N eq. mol N eq.,"1,85E-03","4,76E-04","3,05E-07","0,00E+00","0,00E+00","2,51E-04","0,0OE+00","1,49E-04","0,00E+00"
+EP-Terrestrial,,"1,79E-02","5,04E-03","3,26E-06","0,00E+00","0,00E+00","2,68E-03","0,00E+00","1,60E-03","0,00E+00"
+POCP,kg NMVOC,"5,80E-03","2,03E-03","1,10E-06","0,0OE+00","0,0OE+00","9,63E-04","0,00E+00","5,57E-04","0,00E+00"
+**ADPE,kg Sb eq.,"1,77E-05","1,07E-06","2,32E-10","0,0OE+00","0,00E+00","5,14E-07","0,00E+00","7,17E-08","0,00E+00"
+**ADPF,M],"1,72E+01","5,75E+00","2,48E-03","0,0OE+00","0,00E+00","2,27E+00","0,00E+00","1,29E+00","0,00E+00"
+**WDP,m3 depriv.,"5,53E-01","2,93E-02","1,05E-04","0,00E+00","0,00E+00","9,25E-03","0,00E+00","5,69E-02","0,00E+00"
+Additional environmental impact indicators per 1 m² of plasterboard (Optional),
+PM,,disease inc.,"5,06E-08","3,97E-08","1,76E-11","0,0OE+00","0,00E+00","1,30E-08","0,00E+00","8,52E-09","0,00E+00"
+*IR,,kBq U-235 eq.,"8,18E-02","5,28E-03","3,27E-06","0,00E+00","0,00E+00","3,04E-03","0,0OE+00","8,15E-04","0,00E+00"
+**HTP-C,,CTUh,"5,21E-10","1,71E-10","6,40E-14","0,00E+00","0,00E+00","7,26E-11","0,0OE+00","2,20E-11","0,00E+00"
+***HTP-NC,,CTUh,"8,15E-09","4,19E-09","7,17E-13","0,0OE+00","0,00E+00","1,60E-09","0,0OE+00","2,75E-10","0,0OE+00"
+**SQP,,Pt,"6,46E+01","5,82E+00","5,67E-03","0,0OE+00","0,0OE+00","1,35E+00","0,00E+00","2,56E+00","0,00E+00"
+"A1: Raw Material Supply,A2: Transport,A3: Manufacturing,A1-A3: Sum of A1,A2, and A3,A4: Transport to Site,B1-B7: Use Stage,","C1: De-Construction, C2: Waste Transport, C3: Waste Processing, C4: Disposal, D: Benefits and Loads Beyond the System Boundary."
+Legend Acronyms,GWP-total: Climate change. GWP-fossil: Climate change- fossil. GWP-biogenic: Climate change - biogenic. GWP-luluc: Climate change - land use and transformation. ODP: Ozone layer depletion. AP: Acidification terrestrial and freshwater. EP-freshwater: Eutrophication freshwater.EPmarine:Eutrophication marine.EP-terrestrial:Eutrophication terrestrial.POcP:Photochemicaloxidation.ADPE:Abiotic depletion-elements.ADPF:Abioticdepletion-fossilresources.WDP:Waterscarcity.PM:Respiratoryinorganics-particulatematter.
+,IR:lonising radiation.HTP-c:Cancer human health effects.HTP-nc:Non-cancer human health effects.SQP: Land use related impacts. soil quality This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel cycle.It
+*Disclaimer 1,doesnot considereffects due topossible nuclearaccidents.occupationalexposure norduetoradioactive waste disposal in underground facilities. Potential ionizing radiation from the soil. from radon and from some construction materials is also not measured by this
+**Disclaimer2,indicator. Theresults of this environmental impact indicator shall beused with care as the uncertainties on these resultsare high or as there is limitedexperiencedwiththeindicator.

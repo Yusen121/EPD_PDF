@@ -1,0 +1,7 @@
+Resultsperdeclared unit,,,,,,,
+Indicator,Unit,A1-A3,C1,C2,C3,C4,D
+Componentsforre-use,kg,0,0,0,0,0,0
+Materialforrecycling,kg,o,0,0,1000,0,0
+Materialsforenergyrecovery,kg,0,0,0,0,0,0
+"Exportedenergy,electricity",MJ,0,0,0,0,0,0
+"Exported energy,thermal",MJ,0,0,0,0,0,0

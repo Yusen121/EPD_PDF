@@ -1,0 +1,11 @@
+# C3 - Waste Processing  
+
+It is assumed that gypsum products will be  $\mathtt{100\%}$  landfilled after its life cycle, thus the environmental impact of this module  is set to be zero.  
+
+# C4 - Disposal  
+
+All plasters end up at construction and demolition waste landfills as their final fate and modelled as such in the LCA.  
+
+# D - Benefits  
+
+No potential benefits of recycling and re-use were taken into account. Only the benefit due to the recycling of the packaging  has been calculated.

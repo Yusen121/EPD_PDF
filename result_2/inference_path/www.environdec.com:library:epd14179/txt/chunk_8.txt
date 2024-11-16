@@ -1,0 +1,8 @@
+# Electricity in manufacturing  
+
+The Electricity in A3 accounts for less than $30\%$  of the total energy in A1- A3. The electricity provider  UAB “Ignitis”, which states that energy is produced from renewable resources, based on LCA data the  GWP-GHG indicator is 1.85 g CO2 eq./kWh.  
+
+Description of system boundaries: Cradle to gate with modules C1–C4 and module D  $(\mathsf{A}1\!-\!\mathsf{A}3+\mathsf{C}+\mathsf{D})$ ;  
+
+![](images/dceff7dfe1eb32ad779b6ae59b2c00dc62ec28ecca266243b523a5315be61a5a.jpg)  
+System diagram:

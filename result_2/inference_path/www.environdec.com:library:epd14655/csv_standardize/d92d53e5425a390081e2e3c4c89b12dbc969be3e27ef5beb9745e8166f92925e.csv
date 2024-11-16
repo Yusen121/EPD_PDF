@@ -1,0 +1,7 @@
+Impactcategory,Unit,A1-A3,C1,C2,C3,C4,D
+Particulatematteremissions,Disease incidence,3.49e-06,3.12e-07,5.25e-07,1.8e-07,0.0,-1.58e-06
+"lonizingradiation,human health**",kBq U235,14.2,0.0075,0.0958,0.00434,0.0,-12.3
+Eco-toxicity(freshwater)*,eq. CTUe,146.0,5.69,26.9,3.29,0.0,-90.1
+"Human toxicity,cancereffects",CTUh,2.02e-08,3.7e-10,2.25e-09,2.14e-10,0.0,-1.16e-08
+"Human toxicity,non-cancer",CTUh,3.36e-07,2.57e-09,5.46e-08,1.49e-09,0.0,-1.99e-07
+effects Land userelated impacts/Soil guality*,dimension less,279.0,1.06,77.1,0.615,0.0,-166.0

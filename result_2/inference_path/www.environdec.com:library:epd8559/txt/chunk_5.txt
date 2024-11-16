@@ -1,0 +1,28 @@
+# LCA information  
+
+Functional unit / declared unit:  $1{\mathsf{m}}^{2}$  of floor covering with a reference service life (RSL) of 1 year for  specified characteristics application and use areas according to ISO 1307 and EN ISO 10874.  Reference service life: 1 year  
+
+Time representative ness: 2022  
+
+Database(s) and LCA software used: Ecoinvent 3.9.1, Simapro 9.5.0.2, EN 15804 reference package  based on EF 3.1  
+
+Description of system boundaries: Cradle to grave and module D  $(\mathsf{A}+\mathsf{B}+\mathsf{C}+\mathsf{D})$  
+
+System diagram:  
+
+![](images/6b8bce04ba3f6cdeea07857df10c0d111098ce27b2c77cf8b4d1f132dda4d360.jpg)  
+
+More information: The products are classified in accordance with EN ISO 10874, (previously EN 685)  and in reference to the FCSS (Floor Covering Standard Symbols) to be used in all professional areas  which require class 33 or less.  
+
+Modules declared, geographical scope, share of specific data (in GWP-GHG indicator) and data  variation:  
+
+![](images/17830c1ace61db74c759c09767ddc46fd70ddf73624a2e8e858eaf8e95af3a77.jpg)  
+
+Content information  
+![](images/6c7f3d41b2dd958c6974cb6524034ec5558349caa50493e889262cb19c33a098.jpg)  
+
+Chemical composition for above mentioned products are presented in the following table:  
+
+![](images/4e75a6e3b619318b48d735883eedb81f7da57405cbdcb2b2f12398a7d696e8a6.jpg)  
+\* The yarn is manufactured from $50\%$  pre-consumer and  $50\%$  post-consumer materials. The environmental impact of the yarn is  based on the EPD-S-P-08203 compliant to EN  $15804{+}\mathsf{A}2$ .  \*\* EcoBase contains up to  $82\%$  pre-consumer recycled chalk  
+

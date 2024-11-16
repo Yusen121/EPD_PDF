@@ -1,0 +1,12 @@
+Indicator,Unit,A1-A3,A4,A5,B1,B2,B3,B4,B5,B6,B7,C1,C2,C3,C4,D
+PERE,"MJ,net CV",1.92E+01,2.90E-02,2.16E+00,0.00E+00,6.87E-01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.90E-02,1.81E+01,5.70E-03,1.54E+01
+PERM,"MJ, net CV",4.46E+00,0.00E+00,-1.45E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+PERT,"MJ, net CV",2.37E+01,2.90E-02,7.18E-01,0.00E+00,6.87E-01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.90E-02,1.81E+01,5.70E-03,1.54E+01
+PENRE,"MJ, net CV",6.32E+01,1.86E+00,2.10E+00,0.00E+00,3.64E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.87E+00,1.18E+00,1.39E-01,-9.34E+01
+PENRM,"MJ,net CV",2.53E+01,0.00E+00,7.59E-01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.39E+01
+PENRT,"MJ, net CV",0.00E+00,7.32E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-7.98E+01
+SM,kg,2.44E+00,0.00E+00,7.32E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-1.80E+00
+RSF,"MJ, net CV",0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-8.17E-25
+NRSF,"MJ,net CV",0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-9.64E-24
+FW,m3,-1.69E-01,-8.88E-04,-5.27E-03,0.00E+00,-2.24E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00 material;RSF=Use ofrenewable secondary fuels;NRSF=Use of non-renewable secondaru fuels;Fw=Use of net fresh water,0.00E+00,-8.89E-04,-1.83E-03,-9.38E-05,1.77E-01
+Acronyms,,PERE = Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM = Use of renewable primary energy resources used as raw materials; PERT = Total use of renewable primary energy resources; PENIRE = Use of non- renewable primary energy escluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT = Total use of non-renewable primary energy re-sources; SM = Use of secondary,,,

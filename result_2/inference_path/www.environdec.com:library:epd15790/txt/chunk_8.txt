@@ -1,0 +1,12 @@
+# Moduli dichiarati, scopo geografico, quota di dati specifici (per l’indicatore GWP-GHG) e  variazione dei dati:  
+
+![](images/78b38d9bcc4c8560d48faf67c582bf5682a2719c17c3455c04d01f49f42102af.jpg)  
+Figura 4. – Moduli inclusi ${\mathfrak{M}}.$ , moduli non dichiarati (ND), scopo geografico (IT $=$  Italia)  
+
+$^{\star}{\sf D a}$  compilare solo se il report si riferisce a più prodotti; altrimenti inserire $0\%$  
+
+# SOMMARIO  
+
+La produzione del calcestruzzo è modellata attraverso i dati primari raccolti per le unità produttive riportate a  pagina 2.  
+
+Il periodo di riferimento per la raccolta dati è stato l’ anno 2023 .  La quantità totale del calcestruzzo prodotto nel periodo di riferimento per lo studio è di $\mathbf{0}\,\mathbf{m}^{3}$ .  Nel caso di EPD multiplo la quantità di calcestruzzo prodotto è riferita al solo prodotto più rappresentativo.   Si riportano di seguito alcuni indicatori significativi a scopo riassuntivo.

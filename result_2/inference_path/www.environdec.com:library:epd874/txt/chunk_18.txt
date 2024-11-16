@@ -1,0 +1,12 @@
+# LCA Results  
+
+It is discouraging the use of the results of modules A1-A3 (A1-A5 for services) without considering the results of module C. The estimated impact  results are only relative statements, which do not indicate the endpoints of the impact categories, exceeding threshold values, safety margins and/or  risks.  
+
+![](images/d857b8fc78e723f84398c25735833f41c79b5373e4c320bf60efcb66ddd42da3.jpg)  
+
+![](images/89cfe240c6b33381a2ca308afcdaf30794dcb9f2faf7e8ad391129c7d1401954.jpg)  
+
+Waste & Output Flows 
+![](images/11a49defc9d5af09902e08fef33302474bfeee8b02a5ba039af0b91c7887eae6.jpg)  
+
+![](images/028476b03b8c72cb1bb0447beffa44e380478b1dbda837ad399ddb3e891c9254.jpg)

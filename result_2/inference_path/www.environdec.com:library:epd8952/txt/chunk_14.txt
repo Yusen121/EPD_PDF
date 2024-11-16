@@ -1,0 +1,14 @@
+# Use of resources  
+
+Waste production and output flows 
+![](images/e3698af9ea022c0fb1ac44648cd110b871aa07e0dd59179118fba9176dbe9f81.jpg)  
+
+![](images/ac86b611869f1eb628cd08f24ed0487588095fee53589efed09241dad6633079.jpg)  
+
+Information on biogenic carbon content  
+![](images/7f79419b9598459510db75118ac981baf45aeeb453c11f61cecdf2cb07f2ceff.jpg)  
+Note: 1 kg biogenic carbon is equivalent to 44/12 kg  $C O_{2}.$ .  
+
+# Additional mandatory and voluntary impact category indicators  
+
+This indicator accounts for all greenhouse gases except biogenic carbon dioxide uptake and  emissions and biogenic carbon stored in the product. As such, the indicator is identical to GWP-total  except that the CF for biogenic CO2 is set to zero.

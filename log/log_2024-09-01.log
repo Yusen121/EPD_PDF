@@ -1,0 +1,144 @@
+2024-09-01 21:51:44,830 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 21:51:44,830 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 21:51:46,230 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15629/auto/images/80f5624fbe02c6437def900f1bd72ebd88bfc6d005894235aef6112b86e9d438.jpg
+2024-09-01 21:51:57,397 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15629/auto/images/42f590410f85ad8be1855f8345f71a5e08771a3ef3e99c88736bbb361a33670e.jpg
+2024-09-01 21:52:18,902 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 21:52:18,902 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 21:52:20,158 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15629/auto/images/80f5624fbe02c6437def900f1bd72ebd88bfc6d005894235aef6112b86e9d438.jpg
+2024-09-01 21:52:58,764 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15629/auto/images/42f590410f85ad8be1855f8345f71a5e08771a3ef3e99c88736bbb361a33670e.jpg
+2024-09-01 21:54:47,519 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15798/auto/images/517db79ace3fb188936e2b2933644319e6166b5ca4f188ff61915498f7cc46ed.jpg
+2024-09-01 21:55:48,165 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15798/auto/images/3ce783e495791840991fa658590b0301c4adc44c3c60afa2b5c5fa07787b0eed.jpg
+2024-09-01 21:56:00,364 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd4546/auto/images/e9c8874e385269fe1b87df0c715237ff04bbdacf9c6cd419cee7ce1d43b3761f.jpg
+2024-09-01 21:56:02,113 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd4546/auto/images/58fdf072f31b040c9d1a3393d6a250ce1cfde7a2bfb64b951ca8b525358a812d.jpg
+2024-09-01 21:56:07,066 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd4546/auto/images/dd32344af0dbeb028feb73d9e5421132d2d47abd61d65b6f1f7822d394c98fb0.jpg
+2024-09-01 21:56:15,779 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15790/auto/images/3d17e75e8fad3485d27c6372cd09603dfff0048f58fc8a7b320cc9413f702eda.jpg
+2024-09-01 21:56:42,746 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15790/auto/images/d0adf3390f7c3ec3dc2072caf2721bd17b9abcf107fd458f07891de32174ce30.jpg
+2024-09-01 21:57:00,289 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd8559/auto/images/579700274ad511c4e06d8fce0fcdc90f253110239440947e94e45d045995d3aa.jpg
+2024-09-01 21:57:20,150 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd9339/auto/images/c0e08eac1b3931f095a03763815ba15dcc70bb934301e5426e1e622bd52e70c7.jpg
+2024-09-01 21:57:56,690 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd1348/auto/images/365fa49b7414da2b52104a31e276f43dffbfb28e84d6cb5b55597392909b6470.jpg
+2024-09-01 21:58:02,722 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd1128/auto/images/bc3207b238d822e27877f5400e0a7d0d852a1cd875c748d6d31f60634f0c091e.jpg
+2024-09-01 21:58:07,612 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd1128/auto/images/3e2949ce5b66259106ca1a14dbc56a9f21e00a1744125bf77a2753da6eeda79c.jpg
+2024-09-01 21:58:39,648 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15795/auto/images/b29455e51b7bc2b32aaccd4c8d9bf33e931d784ea7d9b1df694579b874db36e0.jpg
+2024-09-01 21:58:51,332 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15795/auto/images/f78e183147e64d6f14be61acc9838073427e5ec6ebe85f3ee45de590508cc45b.jpg
+2024-09-01 21:59:09,054 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd14655/auto/images/96781e4c70d4b0bfd6e50f74c827452f8fa6b9fed609a211555c0b57dd74ebe7.jpg
+2024-09-01 21:59:18,514 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd14655/auto/images/fdbb985c72a0a4d09c17aa531a47cfda5900891fc1299a688eaa1c23fcf03138.jpg
+2024-09-01 21:59:26,752 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd874/auto/images/a61acda8f0a42b19c6d878b65173b7f46c7094afb6d89c9a3db9657f07d7612b.jpg
+2024-09-01 21:59:30,830 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd874/auto/images/e724efb3041cfbd4f9cd9b52f9a85826e42d7932cacc86426e3be9fb93a34fa1.jpg
+2024-09-01 21:59:54,353 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd14179/auto/images/0122b8b969cf5f7048dc5c36208c6a30f450531ba145816b3a7b633af9930157.jpg
+2024-09-01 21:59:56,184 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd14179/auto/images/daf4341ca1e1b0002d52992d4becebf2f5175a9ed7d267ebafb0f6e136d9373c.jpg
+2024-09-01 22:00:10,520 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15630/auto/images/b8312829259090e5bd39fe3c2b37a03ba69ad6743ac6ea5bfc59f5c843510a07.jpg
+2024-09-01 22:00:10,887 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15630/auto/images/1c6d944ec0777d985b929e71aaf1b88898877bfe866badfcc186b0efbff23add.jpg
+2024-09-01 22:00:24,440 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd872/auto/images/573e2c76b6eb33b81c2170777892ab39d44348195a8e859c293bf2d6358cae28.jpg
+2024-09-01 22:00:30,966 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd872/auto/images/63f5b504d8db792c821d4dd9463ff439bfef04c8486b1df1bb7f548ee24856e4.jpg
+2024-09-01 22:00:31,396 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd872/auto/images/722550450b99f6190f268cd37e5237ff09a8e00e06475e4fdb54bdd74575cc9d.jpg
+2024-09-01 22:00:34,983 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd872/auto/images/8d769407c49bbb77436a88fdf73ff529bc4cfb8b8428c41f9841264f317184b5.jpg
+2024-09-01 22:00:47,945 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd875/auto/images/e95e1d18beab207f4558922f8e2c80a6b2a7729e6024374e1471b4c8774d300b.jpg
+2024-09-01 22:00:49,889 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd875/auto/images/c6e0a635a559160c92eaca6438cc8c8271720932920b8418ec14505ffbbbd707.jpg
+2024-09-01 22:01:19,910 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15800/auto/images/c2b7a868d373fbab60e257ea8e0887576bc598be9d95fb6f2c20bb277fba01e3.jpg
+2024-09-01 22:01:21,029 - log.log - ERROR - image_operator.py:126 - The error report is: zip() argument after * must be an iterable, not NoneType, the error img_file is /Users/apple/PycharmProjects/pdf_server_2.1/result/magic-pdf/www.environdec.com:library:epd15800/auto/images/f286afd298cf217366bc74fba0c30946f4e60bc38463895184ff3fb89fbe71d6.jpg
+2024-09-01 22:03:56,858 - log.log - ERROR - text_extractor.py:20 - The error is No find Product name, # References  
+
+/ISO 9001:2015/ Quality Management Systems  
+
+/ISO 50001:2018/ Energy Management Systems  
+
+/GPI/ General Programme Instructions of the International $E P D^{\scriptscriptstyle{(\!B)}}$  System. Version 4.0.  
+
+/ISO 14020:2000/ Environmental Labels and Declarations — General principles  
+
+/EN 15804:2012+A2:2019/ Sustainability of construction works - Environmental Product Declarations — Core rules for the product category of construction products  
+
+/ISO 14025/ DIN EN ISO 14025:2009-11: Environmental labels and declarations - Type III environmental declarations — Principles and procedures  
+
+/ISO 14040/44/ DIN EN ISO 14040:2006-10, Environmental management - Life cycle assessment - Principles and framework (ISO14040:2006) and Requirements and guidelines (ISO 14044:2006)  
+
+/PCR 2019:14 Construction products (EN 15804: A2) (1.3.1) prepared by IVL Swedish Environmental Research Institute, EPD International Secretariat, date 2023-12-08.  
+
+/The International $E P D^{\circledast}$  System/ The International  $E P D^{\scriptscriptstyle{(\!B)}}$  System is a programme for type III environmental declarations, maintaining a system to verify and register $E P D^{\circledast}\mathsf{S}$  as well as keeping a library of $E P D^{\circledast}\mathsf{S}$  and PCRs in accordance with ISO 14025. www.environdec.com  
+
+/Ecoinvent / Ecoinvent Centre, www.ecoinvent.org  
+
+/SimaPro/ SimaPro LCA Software, Pré Consultants, the Netherlands, www.pre-sustainability.com  
+
+/Kaleseramik/ www.kale.com.tr  
+
+Metsims / www.metsims.com  
+
+
+2024-09-01 22:03:56,858 - log.log - ERROR - processor.py:119 - There is an error here, need to check the txt folder /Users/apple/PycharmProjects/pdf_server_2.1/result_2/inference_path/www.environdec.com:library:epd1128/txt
+2024-09-01 22:05:26,960 - log.log - ERROR - text_extractor.py:20 - The error is No find Product name, # References  
+
+/ISO 9001:2015/ Quality Management Systems  
+
+/ISO 50001:2018/ Energy Management Systems  
+
+/GPI/ General Programme Instructions of the International $E P D^{\scriptscriptstyle{(\!B)}}$  System. Version 4.0.  
+
+/ISO 14020:2000/ Environmental Labels and Declarations — General principles  
+
+/EN 15804:2012+A2:2019/ Sustainability of construction works - Environmental Product Declarations — Core rules for the product category of construction products  
+
+/ISO 14025/ DIN EN ISO 14025:2009-11: Environmental labels and declarations - Type III environmental declarations — Principles and procedures  
+
+/ISO 14040/44/ DIN EN ISO 14040:2006-10, Environmental management - Life cycle assessment - Principles and framework (ISO14040:2006) and Requirements and guidelines (ISO 14044:2006)  
+
+/PCR 2019:14 Construction products (EN 15804: A2) (1.3.1) prepared by IVL Swedish Environmental Research Institute, EPD International Secretariat, date 2023-12-08.  
+
+/The International $E P D^{\circledast}$  System/ The International  $E P D^{\scriptscriptstyle{(\!B)}}$  System is a programme for type III environmental declarations, maintaining a system to verify and register $E P D^{\circledast}\mathsf{S}$  as well as keeping a library of $E P D^{\circledast}\mathsf{S}$  and PCRs in accordance with ISO 14025. www.environdec.com  
+
+/Ecoinvent / Ecoinvent Centre, www.ecoinvent.org  
+
+/SimaPro/ SimaPro LCA Software, Pré Consultants, the Netherlands, www.pre-sustainability.com  
+
+/Kaleseramik/ www.kale.com.tr  
+
+Metsims / www.metsims.com  
+
+
+2024-09-01 22:05:26,960 - log.log - ERROR - processor.py:119 - There is an error here, need to check the txt folder /Users/apple/PycharmProjects/pdf_server_2.1/result_2/inference_path/www.environdec.com:library:epd873/txt
+2024-09-01 22:07:28,512 - log.log - ERROR - text_extractor.py:20 - The error is No find Product name, # References  
+
+/ISO 9001:2015/ Quality Management Systems  
+
+/ISO 50001:2018/ Energy Management Systems  
+
+/GPI/ General Programme Instructions of the International $E P D^{\scriptscriptstyle{(\!B)}}$  System. Version 4.0.  
+
+/ISO 14020:2000/ Environmental Labels and Declarations — General principles  
+
+/EN 15804:2012+A2:2019/ Sustainability of construction works - Environmental Product Declarations — Core rules for the product category of construction products  
+
+/ISO 14025/ DIN EN ISO 14025:2009-11: Environmental labels and declarations - Type III environmental declarations — Principles and procedures  
+
+/ISO 14040/44/ DIN EN ISO 14040:2006-10, Environmental management - Life cycle assessment - Principles and framework (ISO14040:2006) and Requirements and guidelines (ISO 14044:2006)  
+
+/PCR 2019:14 Construction products (EN 15804: A2) (1.3.1) prepared by IVL Swedish Environmental Research Institute, EPD International Secretariat, date 2023-12-08.  
+
+/The International $E P D^{\circledast}$  System/ The International  $E P D^{\scriptscriptstyle{(\!B)}}$  System is a programme for type III environmental declarations, maintaining a system to verify and register $E P D^{\circledast}\mathsf{S}$  as well as keeping a library of $E P D^{\circledast}\mathsf{S}$  and PCRs in accordance with ISO 14025. www.environdec.com  
+
+/Ecoinvent / Ecoinvent Centre, www.ecoinvent.org  
+
+/SimaPro/ SimaPro LCA Software, Pré Consultants, the Netherlands, www.pre-sustainability.com  
+
+/Kaleseramik/ www.kale.com.tr  
+
+Metsims / www.metsims.com  
+
+
+2024-09-01 22:07:28,512 - log.log - ERROR - processor.py:119 - There is an error here, need to check the txt folder /Users/apple/PycharmProjects/pdf_server_2.1/result_2/inference_path/www.environdec.com:library:epd875/txt
+2024-09-01 22:10:19,485 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:10:19,485 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:11:21,573 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:11:21,573 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:12:03,798 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:12:03,798 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:15:46,021 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:15:46,021 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:17:43,521 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:17:43,521 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:19:53,532 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:19:53,532 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:25:15,900 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:25:15,900 - log.log - CRITICAL - log.py:46 - This is a critical message
+2024-09-01 22:32:58,069 - log.log - ERROR - log.py:45 - This is an error message
+2024-09-01 22:32:58,069 - log.log - CRITICAL - log.py:46 - This is a critical message

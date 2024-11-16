@@ -1,0 +1,11 @@
+# Product end of the life  
+
+The EPD details information about the scenarios taken into account, based on these guidelines or on  specific scenarios defined by the company to represent the certified product at the downstream stage.  All scenarios used in this study are plausible.  
+
+In the demolition phase the asphalt is removed by cold milling. It was calculated that the energy  consumption of a demolition process for asphalt is on average 0.32 liters of diesel per tonne of asphalt  (C1). It is estimated that there is no mass loss during the use of the product, therefore the end-of-life  product is assumed that it has the same weight as the decreased product. Transportation distance to  the waste treatment facility, which is located in the asphalt plant, is estimated $50\,\mathsf{k m}$  by transporting with  EURO5 type lorry (C2). At the waste treatment facility, milled asphalt is recycled and diverted for further  use. Two scenarios have been analysed: (1) when  $100\%$  of crushed asphalt pavement is reused, and  (2) when  $90\%$  of reclaimed asphalt is reused to produce new asphalt mixtures and  $10~\%$  of RAP is  recycled and used for unbound road layers. Scenario 2 included in the following study is representative  as one of the most probable alternatives.  
+
+![](images/f2ea1079dc927027d1f7270549c2d98b30d040cd7e2f231e34a7f78de7fcce53.jpg)  
+
+Modules declared, geographical scope, share of specific data and data variation:   
+![](images/354edf67ede4c3b8de0488df20b951a5e71844fac7c42e8a293db021442fc318.jpg)  
+

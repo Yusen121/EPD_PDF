@@ -1,0 +1,6 @@
+Information,Description
+ElectricityData,"Turkiye electricity grid mix from Ecoinvent,MediumVoltage"
+Type of dataset,"Cradle to gate, Ecoinvent"
+Geographicalrepresetativeness description,"Split of energy sources in Turkiye -Natural gas,17%-Hydro,33% - Coal, 37% -Wind, 8% - Other, 1% - Geothermal, 3% -Biogas, 1% - Biomass, <1%"
+Source,IEA (International Energy Agency)
+GWPofElectricityData,"0.578 kg CO, eq./kWh"

@@ -1,0 +1,15 @@
+# Variability of LCA results  
+
+The declared environmental impacts are the impacts of the worst case product. The data was  collected for the two sites of production. The variability of the results was calculated by doing a  sensitivity analysis as recommended by the E $\mathsf{N15804+A2/C N}$ .  
+
+Variation of environmental impacts for all indicators greater than  $10\%$  for A1-C modules  
+
+![](images/4c36f29009794c86fb42e998f201a948f93c615d7072a1e6a9adcbb9d5f7cb2a.jpg)  
+
+# References  
+
+General Programme Instructions of the International $\mathsf{E P D^{\mathrm{\textregistered}}}$  System. Version 4.0.  
+
+# Additional information – Potential impacts and flows in case of incineration.  
+
+![](images/f05865c9ded26e1fcae9f00192baa5b6db2ac7b789c64cba96ebfba865ee3eda.jpg)

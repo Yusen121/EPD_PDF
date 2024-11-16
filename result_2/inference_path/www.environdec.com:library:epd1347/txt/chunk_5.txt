@@ -1,0 +1,18 @@
+# LCA information  
+
+Functional unit / declared unit:  $1\mathsf{m}^{2}$  of floor covering with a reference service life (RSL) of 1 year for  specified characteristics application and use areas according to ISO 11638 and EN ISO 10874.  Reference service life: 1 year.  
+
+Time representative ness: 2023.  Database(s) and LCA software used: Ecoinvent3.9, Simapro 9.5  
+
+Description of system boundaries: Cradle to grave and module D  $(\mathsf{A}+\mathsf{B}+\mathsf{C}+\mathsf{D})$   Cut-off criteria : The cut-off criteria used for this study follow the guidelines set out in the PCR which  conform to the EN 15804-A2, as following:  - All inputs and outputs to a (unit) process are included in the calculation where the data is available.  
+
+- A maximum of $1\%$  of the total mass per unit process may be omitted. 
+
+ - A maximum of $1\%$  of the total renewable and non-renewable energy for a unit process may be  omitted.  
+
+- A maximum of $5\%$  of the total energy usage and mass per module may be omitted.  All input and output flows have been considered, including raw materials as per the product  composition provided by the manufacturer and packaging of raw materials as well as the final product.  Energy and water consumptions have also been considered at  $100\%$  according to the data provided.  
+
+Mass balance approaches (MBAs), to claim, for example, biobased, renewable, and/or recycled  product content, are not applied.  
+
+EN 15804 reference package” based on EF 3.1 has been used.  
+

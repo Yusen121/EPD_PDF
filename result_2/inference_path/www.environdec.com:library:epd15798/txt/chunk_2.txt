@@ -1,0 +1,13 @@
+# Programme  
+
+Programme operator   Numero di registrazione EPD  Data di pubblicazione  Data di validità  In accordo con  
+
+Informazioni sul programma   
+![](images/0f845cc91bcf8c1a71e2bad64f2b0f0362504132c48144b39d0c131948f589b6.jpg)  
+
+![](images/4cc172a58ef450f8c50ed12d72c667aa7d9dbff9352a3f828ba5b5ef49ebe6fe.jpg)  
+
+Il proprietario dell'EPD ha la proprietà e la responsabilità esclusiva dell'EPD.  
+
+Affinché due EPD siano comparabili, devono essere basate sulla stessa PCR (compreso lo stesso numero di versione) o essere basate su  PCR o versioni di PCR completamente allineate; coprire prodotti con funzioni, prestazioni tecniche e uso identici (ad esempio identiche  unità dichiarate/funzionali); avere limiti di sistema e descrizioni dei dati equivalenti; applicare requisiti equivalenti in materia di qualità  dei dati,  metodi di raccolta dei dati e metodi di assegnazione; applicare norme di esclusione e metodi di valutazione d'impatto identici  (compresa la stessa versione dei fattori di caratterizzazione); avere dichiarazioni di contenuto equivalente; ed essere valido al momento  del confronto. Per ulteriori informazioni sulla comparabilità, vedere EN 15804 e ISO 14025.  
+

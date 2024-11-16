@@ -1,0 +1,7 @@
+# 1. General and Program Information  
+
+The first part of an EPD has information about the name of the manufacturer and product/service and other  general information such as the validity and expiration dates of the document, the name of the program operator,  geographical scope, etc. The second page states the standards followed and gives information about the program  operator, third-party verifier, etc. The followed Product Category Rule (PCR) is indicated on the second page.  
+
+# 2. Company and Product/Service Information  
+
+Information about the company and the investigated product is given in this section. It summarizes the  characteristics of the product provided by the manufacturer. It also includes information about the product such  as product composition and packaging.

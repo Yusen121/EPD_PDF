@@ -1,0 +1,9 @@
+# A3 - Manufacturing  
+
+The components of Knauf plaster boards are suspended in silos in liquid phase and spread on a continuous sheet of board  liner (visible face, lower layer). The board liner is cut on the sides for edge shaping. The slurry is covered with a second sheet  of board liner (back surface) in the forming station and the edges of the visible face board liner are flipped upwards. On the  subsequent board liner the gypsum sets continuously and is dried in a multi-level drier to the permitted residual moisture  level. Drying is followed by the cutting of the boards to the desired lengths. (See also figure below)  
+
+![](images/ed07c8731e2c96a4a58be6ced42e196d1cf5c61377d7fb32b6bbbcbe7a01fba9.jpg)  
+
+Electric and natural gas are consumed during the manufacturing.  
+
+![](images/5f9f14fc68e57b5b777bf563ab48f73aa66bb4978465583277a0db6b2f752a04.jpg)

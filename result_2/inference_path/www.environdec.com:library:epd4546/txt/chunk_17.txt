@@ -1,0 +1,5 @@
+# LCA Modelling, Calculation And Data Quality  
+
+The results of the LCA with the indicators as per EPD requirement are given in the LCA result tables. All energy calculations were obtained using Cumulative Energy Demand (LHV) methodology, while fresh water use is calculated with selected inventory flows in SimaPro according to the PCR. There are no co-product allocations within the LCA study underlying this  EPD. The regional energy datasets were used for all energy calculations. For LCA modelling and calculation, ecoinvent  database (v3.9.1) and SimaPro $(\lor\!9.5)$  LCA software were used. Characterization factors of EN 15804 reference package  based on EF 3.1 are utilized. Impact of infrastructure and capital goods are excluded from the analysis.  
+
+![](images/4933ed409ec788464e7126c143a769ccf0c9b35d1cf7fb88899f7f83b2cf08f7.jpg)

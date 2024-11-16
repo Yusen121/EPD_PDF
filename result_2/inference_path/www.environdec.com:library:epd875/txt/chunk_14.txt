@@ -1,0 +1,15 @@
+# REACH Regulation  
+
+No substances included in the Candidate List of Substances of Very  High Concern for authorization under the REACH regulations are  present in this product either above the threshold for registration  with the European Chemicals Agency or above $0.1\%$  (wt/wt)  
+
+# System Boundary  
+
+The system boundary covers A1 - A3 product stages referred as  ‘Raw material supply’, ‘Transport’ and ‘ Manufacturing’, A4 - A5  ‘Construction’, B1 - B7 ‘Use’ and C1 – C4 ‘End of life’ stages and  Module D ‘Benefits & Loads’.  
+
+# Cut-off Rules  
+
+For this LCA study, no cut-off criteria was applied.  
+
+# Background Data  
+
+For all LCA modelling and calculation, Ecoinvent database (v3.9) and  SimaPro (v9.5) LCA software were used.

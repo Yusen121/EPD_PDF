@@ -1,0 +1,16 @@
+# Manufacturing processes:  
+
+As the manufacturing process is important to understand the whole studied system, the description of  the main manufacturing processes for producing the studied product is explained as below. A flow chart  of product manufacturing is shown below.  
+
+![](images/47c773988e9408a78e77c7aa69bf8159df3fe2899e95e9fe595a1e38738d4591.jpg)  
+Figure 1 The main production process of studied product.  
+
+Polyethylene wood-like foam board product is made of secondary HDPE plastic as the main raw material,  and then add foaming agent, conditioning agent and other additives, and then made into all kinds of  specifications of foam profiles through the process of granulation and extrusion.  
+
+The GWP-GHG of electricity mix for Zhejiang province in this study is 0.807 kg CO 2  eq./kWh. Note that  the Guarantees of Origin market in China represents an extremely small proportion of production and  consumption, and therefore the consumption mix is effectively the same as the residual mix.  
+
+Table 2. Electricity structure of the Zhejiang province and the dataset chosen for it  
+![](images/5905131ad2c364fe4a942afa64c64cf838f2e937324d01147eea075d82116ab7.jpg)  
+
+(1)  In the 2022 China Electricity Yearbook, the percentage of electricity from fossil fuel for each province is not specified.  A brief description of electricity from fossil fuel for the whole country is given in the yearbook, i.e. it covers coal, gas,  oil, biomass, and a small amount of unidentified sources for generating electricity. Based on the information in the  yearbook, i.e., electricity from hard coal accounts for more than  $80\%$  of the thermal power generation types, and  considering that China is a country where coal-fired power generation is the main source of thermal power generation,  the LCA practitioner (IVL) decide to use electricity from hard coal as  $100\%$  of the dataset selection for electricity from  fossil fuel in this study for modelling.  
+

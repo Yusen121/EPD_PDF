@@ -1,0 +1,9 @@
+# End of Life Stage  
+
+C1:  Deconstruction of ceramic at the end of their life is done manually. So no  impact occurs in this module.   C2:  Waste transport includes discarded ceramic slab and mortar to disposal  area. Distance from demolition site to inert landfill site for final disposal is  assumed as $50\,\,{\sf k m}$ . C3:  Environmental impacts generated during the crushing of discarded  ceramic slab before recycle or reuse. C4.  Disposal construction and demolition waste scenario is created separately  depending on the geographic location of the use phase. After domestic usage,  ceramic slab products end up at construction and demolition waste landfills  as their final fate and modelled as such in the LCA. D:  Inert filler benefits and recycling of packaging materials specified in the  disposal stage.  
+
+# LCA Information  
+
+# Functional / Declared Unit  
+
+The declared unit is  $11.6\:\mathsf{k g}$  of $1\,\mathsf{m}^{2}$  average ceramic slab.

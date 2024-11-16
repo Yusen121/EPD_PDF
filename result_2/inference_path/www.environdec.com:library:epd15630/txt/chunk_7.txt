@@ -1,0 +1,17 @@
+# Geographical scope:  
+
+Modules A1-A3 represent production of the products in China. Module A4 and A5 represent the shipping  and construction from China to all over the world. Module B, C, and D represent the use and end-of-life  treatment with benefits out of the system boundary of the products worldwide.  
+
+# LCA information  
+
+Declared unit:   1 tonne of the studied product  
+
+Reference service life:  25 years  
+
+# Time representative ness:   2023 (January to December).  
+
+Database(s) and LCA software used:   Managed LCA Content 2023.2 Databases and ecoinvent 3.9.1 (cut-off), LCA for Experts (Gabi)  
+
+# Description of system boundaries:  
+
+The scope of the EPD generated corresponds to “cradle to gate with options” which serves type (b) EPD,  assessing the potential environmental impacts associated with the studied product. The information  module included in the study is A1-A3, A4-A5, B1-B7, C1-C4, and D, no processes are omitted or  excluded in this study.

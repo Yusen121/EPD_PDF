@@ -1,0 +1,9 @@
+# General information  
+
+Programme information   
+![](images/1f04198e8ed47e25d1ffed4d235c1ff9304dd4de60be166693ae2807520a522b.jpg)  
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.  
+
+EPDs within the same product category but registered in different EPD programmes, or not compliant  with EN 15804, may not be comparable. For two EPDs to be comparable, they must be based on the  same PCR (including the same version number) or be based on fully-aligned PCRs or versions of  PCRs; cover products with identical functions, technical performances and use (e.g. identical  declared/functional units); have equivalent system boundaries and descriptions of data; apply  equivalent data quality requirements, methods of data collection, and allocation methods; apply  identical cut-off rules and impact assessment methods (including the same version of character is ation  factors); have equivalent content declarations; and be valid at the time of comparison. For further  information about comparability, see EN 15804 and ISO 14025.  
+

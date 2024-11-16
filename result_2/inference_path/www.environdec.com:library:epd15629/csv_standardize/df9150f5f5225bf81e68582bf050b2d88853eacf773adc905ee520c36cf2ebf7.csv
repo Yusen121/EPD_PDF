@@ -1,0 +1,15 @@
+Indicator,Unit,A1- A3,A4,A5,B1,B2,B3,B4,B5,B6,B7,C1,C2,C3,C4,D
+GWP- fossil,kg CO2 eq.,2.67E +03,2.41E +02,1.34E +02,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E 00+,0.00E 00+,0.00E +00,0.00E +00,4.12E +01,6.09E +02,5.18E +01,7.17E +00
+GWP- biogenic,kg CO2 eq.,6.08E +01,8.44E- 02,1.41E +02,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,0.00E +00,1.57E- 02,2.08E- 02,7.50E- 01,1.40E- 02
+GWP- luluc,kg CO2 eq.,1.77E +00,1.59E- 02,2.77E- 02,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,4.81E- 02,1.01E- 02,4.28E- 02,1.77E- 03
+GWP- total,kg CO2 eq.,2.61E +03,2.41E +02,2.74E +02,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,4.13E +01,6.09E +02,5.12E +01,7.16E +00
+ODP,kg CFC 11 eq.,3.68E- 06,8.39E- 12,2.61E- 10,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,5.18E- 12,1.19E- 10,8.74E- 11,3.43E- 11
+AP,mol H+ eq.,1.59E +01,4.52E +00,2.66E- 01,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E 00+,0.00E 00+,0.00E +00,0.00E +00,3.97E- 02,7.59E- 02,1.56E- 01,2.36E- 02
+EP- freshwater,kg P eq.,8.77E- 02,7.09E- 05,1.34E- 04,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,0.00E +00,2.08E- 04,3.19E- 05,1.00E- 02,6.33E- 05
+EP- marine,kg N eq.,4.01E 00+,1.91E +00,6.35E- 02,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,1.68E- 02,2.06E- 02,3.57E- 02,6.19E- 03
+EP- terrestrial,mol N eq.,4.33E +01,2.09E +01,7.18E- 01,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E 00+,0.00E 00+,0.00E +00,0.00E +00,1.89E- 01,3.48E- 01,3.92E- 01,6.04E- 02
+POCP,kg NMVOC,1.13E +01,5.19E +00,1.93E- 01,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,3.85E- 02,5.91E- 02,1.13E- 01,1.67E-
+ADP- minerals& metals*,eq. kg Sb eq.,2.05E- 03,1.98E- 06,1.61E- 03,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E 00+,0.00E 00+,0.00E +00,0.00E +00,2.78E- 06,1.06E- 06,1.37E- 06,02 7.40E- 07
+ADP- fossil*,MJ,3.65E +04,3.14E +03,8.16E +02,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E 00+,0.00E +00,0.00E +00,5.55E +02,2.72E +02,7.76E +02,1.21E +02
+WDP*,m3,6.35E +02,1.12E +00,2.65E +01,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,0.00E +00,2.47E 00+,5.78E +01,7.34E- 01,1.94E +00
+Acronyms water consumption,"GWP-fossil = Global Warming Potential fossil fuels; GWP-biogenic= Global Warming Potential biogenic; GWP-luluc = Global Warming Potential land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potential, Accumulated Exceedance;EP-freshwater=Eutrophicationpotential,fractionof nutrientsreaching freshwater end compartment;EP-marine =Eutrophicationpotential,fraction of nutrientsreaching marine end compartment;EP-terrestrial =Eutrophicationpotential,Accumulated Exceedance; POcP = Formation potential of tropospheric ozone; ADP-minerals&metals =Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion for fossil resources potential; WDP = Water (user) deprivation potential, deprivation-weighted",,,,,,,,,,,,,,,

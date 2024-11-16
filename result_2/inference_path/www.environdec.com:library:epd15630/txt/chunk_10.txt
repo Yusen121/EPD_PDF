@@ -1,0 +1,16 @@
+# More information:  
+
+Scenarios and additional technical information:  
+
+   The product is manufactured in China, and the waste treatment of the waste generated during the  manufacturing process was included in the system boundary.  
+
+   The product is sent to and used globally. For module A4, the longest shipping distance is applied  for the model as the conservative consideration, which is selling to the United States. The specific  data of the longest transportation information from the manufacturing plants to the overseas selling  destination is collected by the client, which is the specific data.  
+
+   With regard to module A5, during the construction stage, the product requires some screws, which  are included in the study. The energy consumption of the construction, i.e., electricity, is included  in the study. Besides, according to the information provided by the client, the packaging of the  studied products is assumed to become to waste in this stage and is treated to end-of-life stage.    
+
+    In module B, the product in this study do not generate emissions and consume energy and water  during the whole use phase, so the use phase environmental impact is deemed to be zero.  
+
+   The modelling of module C1 is assumed that the consumption of additional materials and energy  used in the deconstruction stage for installation is zero. The  ${\mathcal{2}}4\%$  of the rest of the waste product  would be sent to C4 for disposal, and $76\%$  to material recycle according to the recycling data from  the International Aluminium Institute. For module C2, conservative assumptions have been made  that the waste product would be transported for $500\,{\mathsf{k m}}$  by truck. For the waste processing module  C3, disposal module C4, and module D (benefits and loads beyond the system boundary), the  generic data has been applied. Besides, it is assumed the waste products would be processed in  C3 with a $3.01\%$  mass loss.  
+
+   Regarding the module D calculation, it should be noted that the product does not have post- consumer materials as the raw material. Meanwhile, this study does not consider the co-product  allocation in this project, so there is no co-product allocation issue for the module D calculation.  
+

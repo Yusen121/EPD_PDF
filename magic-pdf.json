@@ -1,0 +1,9 @@
+{
+    "models-dir":"/Users/apple/PycharmProjects/pdf_server_2.1/PDF-Extract-Kit/models",
+    "device-mode":"cpu",
+    "temp-output-dir": "/Users/apple/PycharmProjects/pdf_server_2.1/result",
+    "table-config": {
+        "is_table_recog_enable": false,
+        "max_time": 400
+    }
+}

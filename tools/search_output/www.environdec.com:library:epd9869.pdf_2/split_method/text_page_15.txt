@@ -1,0 +1,19 @@
+REFERENCES
+/GPI/ General Programme Instructions of the International EPD® System. Version 4.0.
+/ISO 14020:2000/ Environmental labels and declarations — General principles
+/EN 15804:2012+A2:2019/ Sustainability of construction works - Environmental Product Declarations —
+Core rules for the product category of construction products
+/ISO 14025/ DIN EN ISO 14025:2009-11: Environmental labels and declarations - Type III environmental
+declarations — Principles and procedures
+/ISO 14040/44/ DIN EN ISO 14040:2006-10, Environmental management - Life cycle assessment - Principles
+and framework (ISO14040:2006) and Requirements and guidelines (ISO 14044:2006)
+/PCR for Construction Products and Construction Services/ Prepared by IVL Swedish Environmental
+Research Institute, Swedish Environmental Protection Agency, SP Trä, Swedish Wood Preservation Institute,
+Swedisol, SCDA, Svenskt Limträ AB, SSAB, The International EPD System, 2019:14 Version 1.3.1
+/The International EPD® System/ The International EPD® System is a programme for Type III environmental
+declarations, maintaining a system to verify and register EPD®s as well as keeping a library of EPD®s and
+PCRs in accordance with ISO 14025. www.environdec.com
+/Ecoinvent / Ecoinvent Centre, www.ecoinvent.org
+/SimaPro/ SimaPro LCA Software, Pré Consultants, the Netherlands, www.pre-sustainability.com
+/Asian Paints/ www.asianpaintsarabia.com/
+15

@@ -1,0 +1,7 @@
+# Construction Process Stage  
+
+A4:  This stage is relevant to the transportation of the final product from the  factory gate to the customers.  
+
+A5.  This stage includes the adhesive mortar and water usage in the  construction site. For  $1\;{\mathsf{m}}^{2}$  slab installation;  $3.3~\mathrm{kg}$  mortar and  $0.8~\mathsf{L}$  water  usage was assumed.  
+
+B1:  Ceramic slab do not cause any emissions in the use stage because of the  inert feature. B2:  Usage of detergent containing stain remover or neutral lowsulphate and  rinsing with tap water after cleaning was assumed. $0.2\,\mathsf{m L}$  detergent and 0.1  L water use was assumed to wash $1\,\mathsf{m}^{2}$  ceramic slab. B3-B5:  Ceramic slab do not require any repairment during the use phase and  therefore no impacts should be declared. B6-B7:  Ceramic slab do not require any water and energy in the use phase  and therefore no impacts ocurred in this module.

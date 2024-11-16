@@ -1,0 +1,10 @@
+# LCA Results  
+
+It is discouraging the use of the results of modules A1-A3 (A1-A5 for services) without considering the results of module  C. The estimated impact results are only relative statements, which do not indicate the endpoints of the impact categories,  exceeding threshold values, safety margins and/or risks.  
+
+![](images/3639f73745190dc2fd868613306fdf07603e6e9b8846db3e1d8c5d035959ee77.jpg)  
+
+![](images/9a9c50c6d1b3ddef772a6b933e1ac85c0be1b4ac9318e249df2afe824871ea14.jpg)  
+GWP-GHG $=$  Global Warming Potential total excl. biogenic carbon following IPCC AR5 methodology. The indicator includes all greenhouse gases included in GWP-total but excludes biogenic carbon dioxide uptake and emissions and biogenic carbon stored in the product. The GWP-GHG indicator is identical to GWP-total except that the character is ation factor (CF) for biogenic CO2 is set to zero.  
+
+![](images/d11752d5e2a050f0659cdcc12c55a8914b7930c16fa5782edc84ad365b533502.jpg)

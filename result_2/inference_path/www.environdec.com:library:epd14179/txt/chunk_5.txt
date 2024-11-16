@@ -1,0 +1,9 @@
+# LCA information  
+
+Goal  
+
+The goal of this is to declare the environmental impact for 1 tonne of asphalt mixtures produced in Vilnius  asphalt plant of AB Eurovia Lietuva based on the Product Category Rules. The result is used to  understand the environmental impact of the product up until the ”factory gate”. The information provided  in this declaration can be used to select asphalt mixtures during the design of engineering structures to  reduce environmental impact. The audience are construction and design companies and infrastructure  developers.  
+
+# Declared unit  
+
+1 metric tonne ( $\cdot1000\;{\sf k g})$  of manufactured asphalt mixture

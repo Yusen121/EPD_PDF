@@ -1,0 +1,3 @@
+# 3. LCA Information  
+
+Life Cycle Analysis (LCA) information is one of the most important  parts of the EPD as it describes the functional/declared unit, time  representative ness of the study, database(s) and LCA software,  along with system boundaries. The table presented in this part has  columns for each stage in the life cycle. The considered stages are  marked  $\mathbf{\acute{X}}^{\prime}$  whereas the ones that are not considered are labeled  as ‘NR’ (Not Relevant). Not all EPDs consider the full life cycle  assessment for a product’s entire life stages. The ‘System Boundary’  page is also the place where one can find detailed information about  the stages and the assumptions made.

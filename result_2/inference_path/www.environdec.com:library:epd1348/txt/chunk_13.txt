@@ -1,0 +1,24 @@
+# Results  
+
+The estimated impact results are only relative statements, which do not  indicate the endpoints of the impact categories, exceeding threshold values,  safety margins and/or risks.  
+
+Disclaimer :     The results of modules A1-A3  should not be used without  considering the results of module C.  
+
+# Environmental Information .  
+
+![](images/16c643366c861c40858575b031eea52510af1b6af42194fd3c380dfcd539adbf.jpg)  
+
+Environmental Information . Potential environmental impact  
+![](images/c51130cb4f5c437f62e1451fbb69c4693fd95991a503f6f00c374a5d366d5e22.jpg)  
+
+# Waste production and output flows  
+
+Waste production  
+![](images/101755b49cca63458c5750be689e5788fc91eeb24fa81ef75f1670be951d953b.jpg)  
+
+Output flows  
+![](images/d86ac1170d759481bcddb38d6e1c3632a00f658cde7c55075504532d2aa7b447.jpg)  
+
+Additional indicator  
+![](images/34f5952e551117d52dac5895592565c50fc20143fe88b52438562763c40c274a.jpg)  
+1     GWP-GHG is the sum of GWP-Fossil and GWP-LULUC indicators

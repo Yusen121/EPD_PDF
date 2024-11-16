@@ -1,0 +1,11 @@
+# A4 - Product Transport  
+
+Product transport from manufacturer to customer is considered in product material supply stage. The distances and routes  are calculated accordingly. Depending the customer location, product is transported via trucks and other supplies come  through seaway.  
+
+![](images/8e57ac9f994a4340491ec1b668ba416a375e6b1a68db924c56718829055ae932.jpg)  
+
+# A5 - Installation  
+
+During the installation of plasterboard, mortar, screws and steel profiles are generally used. The materials used depend  on the surface area and the application method. It can also be used directly. This study considered no material or energy  consumption during the usage phase.  
+
+Additonally, the treatment of the packaging waste after the installation of the product has been considered in installation  stage.  It is presumed that all waste gypsum board st ripes  are disposed of in landfills.

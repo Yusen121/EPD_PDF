@@ -1,0 +1,9 @@
+# End of Life Stage  
+
+C1:  Deconstruction of sanitaryware at the end of their life is done manually.  So no impact occurs in this module.   C2:  Waste transport includes discarded sanitaryware and mortar to disposal  area. Distance from demolition site to inert landfill site for final disposal is  assumed as $50\,\mathsf{k m}$ . C3:  Environmental impacts generated during the crushing of discarded  sanitaryware before recycle or reuse. C4.  Disposal construction and demolition waste scenario is created separately  depending on the geographic location of the use phase. After domestic usage,  ceramic sanitaryware products end up at construction and demolition waste  landfills as their final fate and modelled as such in the LCA. D:  Inert filler benefits and recycling of packaging materials specified in the  disposal stage.  
+
+# LCA Information  
+
+# Functional / Declared Unit  
+
+The declared unit is 1 tonne of Ceramic Sanitaryware (VC & FFC).

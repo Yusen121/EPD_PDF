@@ -1,0 +1,13 @@
+# Landfilling /L  
+
+Landfilling waste is still a proheminent waste management scenario. This option is however not  recommanded by Tarkett. Environmental impacts of landfilling are presented in module  $\mathbf{c}/\mathbf{l}$ .  
+
+# Incineration with energy recovery /I  
+
+Incineration with energy recovery is a rising waste management method in many of the countries in wich  Tapiflex Platinium 100   is sold. While Tarkett wishes to recycle  $100\%$  of products sold, incineration with  energy recovery is an alternative option if recycling is impossible. Environmental impacts of incineration  with energy recovery are presented in module  $\mathbf{c}/\vert$   under additional information.  
+
+# Benefits and loads beyond system boundary  
+
+# Landfilling /L  
+
+Benefits accounted in this scenario exclusively come from installation offcuts recycling and are  presented in  D/L

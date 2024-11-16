@@ -1,0 +1,33 @@
+# References  
+
+Emami, N., Heinonen, J., Marteinsson, B., Säynäjoki, A., Junnonen, J.-M., Laine, J., & Junnila, S.  (2019). A Life Cycle Assessment of Two Residential Buildings Using Two Different LCA Database- Software Combinations: Recognizing Uniformities and Inconsistencies. Buildings, 9(1), 20.  https://doi.org/10.3390/buildings 9010020  
+
+European Committee for Standardization (2021), EN 15804:2012+A2:2019/AC:2021, Sustainability of  construction works - Environmental Product Declarations - Corerules for the product category of  construction products  
+
+Global Guidance Principles for LCA databases. A basis for greener processes and products, ‘Shonan  Guidance Principles’, 2011; ISBN: 978-92-807-3174-3.  
+
+GPI (2021), General Programme Instructions for the International EPD System version 4.0.  
+
+International Aluminium Institute (2020). Aluminium Recycling Factsheet. https://international- aluminium.org/resource/aluminium-recycling-fact-sheet/  
+
+ISO (2006a). ISO 14025:2006, Environmental labels and declarations – Type III environmental  declarations – Principles and procedures.  
+
+ISO (2006b). ISO 14040:2006, Environmental management – Life cycle assessment – Principles and  framework.  
+
+ISO (2006c). ISO 14044: 2006, Environmental management – Life cycle assessment – Requirements  and guidelines.  
+
+Kalverkamp, M., Helmers, E., & Pehlken, A. (2020). Impacts of life cycle inventory databases on life  cycle assessments: A review by means of a drivetrain case study. Journal of Cleaner Production, 269,  121329. https://doi.org/10.1016/j.jclepro.2020.121329  
+
+LCA database published by the ecoinvent association originally known as the ecoinvent Centre, the  Swiss Centre for Life Cycle Inventories. Since June 2013 ecoinvent is a not-for-profit association  founded by institutes of the ETH Domain and the Swiss Federal Offices. The version 3.9.1 was used.  
+
+LCA for Expert software. The former name of the software is Gabi. The software version 10.7, CUP  2023.2 version is used.  
+
+Managed LCA Content 2023.2 Databases (Gabi database) provided by Sphera.  
+
+Pauer, E., Wohner, B., & Tacker, M. (2020). The Influence of Database Selection on Environmental  Impact Results. Life Cycle Assessment of Packaging Using GaBi, Ecoinvent 3.6, and the  Environmental Footprint Database. Sustainability, 12(23), 9948. https://doi.org/10.3390/su12239948  
+
+PCR Construction, PCR 2019:14, Version 1.3.4, Valid until 2025-06-20  
+
+United States Environmental Protection Agency (2023). Plastics: Material-Specific Data.  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/plastics-material-specific- data  
+
+United States Environmental Protection Agency (2023). Wood: Material-Specific Data.  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/wood-material-specific- data  

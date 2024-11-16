@@ -1,0 +1,12 @@
+Indicator,Unit,A1-A3,C1,C2,C3,C4,D
+PERE,MJ,5.78,0.02,0.25,0.01,0.0,-2.35
+PERM,MJ,0.00,0.0,0.0,0.00,0.0,0.0
+PERT,MJ,5.78,0.02,0.25,0.01,0.0,-2.35
+PENRE,MJ,1.13E+03,16.8,80.7,1.67E+03,0.0,-2070.0
+PENRM,MJ,1.66E+03,0.0,0.0,-1.66E+03,0.0,0.0
+PENRT,MJ,2.79E+03,16.8,80.7,9.71E+00,0.0,-2070.0
+SM,kg,1.01E+02,0.0,0.0,0.00,0.0,899.0
+RSF,MJ,0.00,0.0,0.0,0.00,0.0,0.0
+NRSF,MJ,0.00,0.0,0.0,0.00,0.0,0.0
+FW Acronym,m3,0.59 PERE=Useofrenewableprimaryenergyexcludingrenewableprimaryenergyresourcesused asraw,0.0,0.01,0.00 fuels;Fw=Useofnetfreshwater,0.0,-0.48
+S,materials;PERM = Use of renewable primary energy resources used as raw materials;PERT =Total use of renewableprimary energy resources;PENRE=Use of non-renewableprimary energy excluding non- ofsecondarymaterial;RSF=Useofrenewablesecondaryfuels;NRSF=Useofnon-renewablesecondary,,,,,,

@@ -1,0 +1,14 @@
+# Allocation  
+
+Source of raw material, water consumption, energy consumption and raw material transportation were weighted  according to 2023 production figures. In addition, hazardous and non-hazardous waste amounts were also allocated  from the 2023 total waste generation.  
+
+# Cut-Off Criteria  
+
+$\mathtt{1\%}$  cut-off is applied in LCA. Data for elementary flows to and from the product system contributing to a minimum of  $99\%$  of the declared environmental impacts have been included.  
+
+# Reach Regulation  
+
+No substances included in the Candidate List of Substances of Very High Concern for authorization under the REACH  regulations are present in this product either above the threshold for registration with the European Chemicals Agency  or above $0.1\%$  (wt/wt).  
+
+Product Composition 
+![](images/64cb971cb6e613ae604abce28b719793b820c13b1a3af2088f30007e23708860.jpg)

@@ -1,0 +1,15 @@
+Indicator Unit,,,,,,,
+,,A1-A3,A4,A5,B1,B2,B3,B4,B5,B6,B7,C1,C2,,C4,
+GWP-total GWP-fossil,kg C02eq kg C02 eq,4.40E+00 4.90E+00,1.35E-01 1.35E-01,4.02E-01 3.03E-01,0.00E+00 0.00E+00,1.64E-01 1.62E-01,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.35E-01 1.35E-01,7.09E-01 1.26E-01,7.55E-01 7.55E-01,-4.89E+00 -4.91E+00
+GWP-,kg C02 eq,-5.11E-01,5.50E-05,9.88E-02,0.00E+00,1.14E-03,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,5.51E-05,5.83E-01,6.22E-05,1.82E-02
+biogenic GWP-Luluc,kg C02eq,4.61E-03,6.45E-05,1.47E-04,0.00E+00,6.33E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,6.45E-05,1.51E-04,5.75E-06,-3.93E-03
+AP,kg CFC11,1.49E-06,2.86E-09,4.50E-08,0.00E+00,2.93E-09,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.87E-09,3.39E-09,7.76E-10,-2.44E-08
+ODP,eq,2.14E-02,4.23E-04,7.30E-04,0.00E+00,8.06E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,4.30E-04,9.65E-04,1.72E-04,-1.08E-02
+EP-,mol H+ eq,,,,,,,,0.00E+00,,,,,,,
+freshwater,kg Peq,1.18E-03,9.22E-06,3.75E-05,0.00E+00,1.44E-04,0.00E+00,0.00E+00,,0.00E+00,0.00E+00,0.00E+00,9.22E-06,6.65E-05,2.25E-06,-4.89E-04
+EP-marine EP-terrestrial,kgN eq mol N eq,4.15E-03 4.33E-02,1.44E-04 1.52E-03,2.58E-04 1.63E-03,0.00E+00 0.00E+00,1.48E-04 1.28E-03,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.48E-04 1.56E-03,1.58E-04 1.66E-03,9.81E-05 8.37E-04,-1.24E-03 -1.72E-02
+POCP,kg NMVOC eq,1.50E-02,6.32E-04,5.86E-04,0.00E+00,4.10E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,6.42E-04,5.46E-04,2.10E-04,-8.14E-03
+ADP- minerals&met,,,,8.81E-07,0.00E+00,3.35E-07,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,4.24E-07,6.51E-06,3.63E-08,-9.51E-06
+als* ADP-fossil*,kg Sb eq MJ,2.79E-05 8.69E+01,4.24E-07,,,,,0.00E+00,,,,,,,,
+WDP m3 depriv.,2.05E+00,,1.86E+00 7.44E-03,2.81E+00 6.96E-02,0.00E+00 0.00E+00,3.71E+00 3.99E-02,0.00E+00 0.00E+00,0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.87E+00 7.45E-03,1.18E+00 3.52E-02,1.39E-01 3.41E-02,-1.11E+02 4.77E+00
+Acronyms,"Accumulated Exceedance; EP-freshwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potential, Accumulated Exceedance; POCP = Formation potential of tropospheric ozone; ADP-minerals&metals = Abiotic depletion potential for non-fossil resources; ADP-fossil = Abiotic depletion for fossil resources potential; wDP = Water {user] deprivation potential, deprivation-",

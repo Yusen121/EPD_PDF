@@ -1,0 +1,8 @@
+Stage,Data Type
+Raw Material Supply,"Generic database, plant spesific data"
+RawMaterial Transport,"Generic database, plant spesific data"
+Manufacturing,"Generic database, plant spesific data"
+Product Transport,"Generic database, generic data"
+Installation,"Genericdatabase,genericdata"
+End of Life,"Genericdatabase,genericdata"
+BenefitsandLoads,"Genericdatabase,genericdata"

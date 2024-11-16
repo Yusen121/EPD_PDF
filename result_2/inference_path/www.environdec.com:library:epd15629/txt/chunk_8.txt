@@ -1,0 +1,3 @@
+# System diagram:  
+
+![](images/e24d87eba127b5a4861822d0d61253f9c1425cbe0772a611e57ea9242ad12796.jpg)

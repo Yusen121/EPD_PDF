@@ -1,0 +1,482 @@
+Unnamed: 0,id,property_name,property_symbol,property_unit,description,data_entry_by
+0,1818421582742429696,无纺布,Non-woven,%,,吴宇森
+1,1818421582742429697,纱线 PA6,Yarn PA6,%,,吴宇森
+2,1818421582742429698,SBR 化合物,SBR-compound,%,,吴宇森
+3,1818421582742429699,铝,Aluminium,%,,吴宇森
+4,1818421582742429700,初级白垩,Primary chalk,%,,吴宇森
+5,1818421582742429701,玻璃纤维网,Glass scrim,%,,吴宇森
+6,1818421582742429702,生态底座（含回收粉笔）*,EcoBase (w. recycled chalk)*,%,,吴宇森
+7,1818421582742429703,纸箱,Cardboard box,kg,,吴宇森
+8,1818421582742429704,木托盘,Wooden pallet,kg,,吴宇森
+9,1818422100382457856,重量,Weight,kg/m²,,吴宇森
+10,1818422100382457857,消费后材料,Post-consumer material,%,,吴宇森
+11,1818422100382457858,生物物质,Biogenic material,%,,吴宇森
+12,1818422100382457859,包装重量,Packaging Weight,kg/m²,,吴宇森
+13,1818422100382457860,包装重量-%（与产品相比）,Packaging Weight-% (versus the product),%,,吴宇森
+14,1818422100382457861,包装重量 生物碳,Packaging Weight biogenic carbon,kg C/kg,,吴宇森
+15,1818422650721280000,聚氯乙烯（乳液和悬浮液）,PVC ( Emulsion & Suspension),kg/m²,,吴宇森
+16,1818422650721280001,增塑剂,Plasticizers,kg/m²,,吴宇森
+17,1818422650721280002,环氧大豆油,Epoxidised soya bean oil,kg/m²,,吴宇森
+18,1818422650721280003,矿物填料,Mineral fillers,kg/m²,,吴宇森
+19,1818422650721280004,稳定剂 CaZn,Stabilizer CaZn,kg/m²,,吴宇森
+20,1818422650721280005,颜料,Pigments,kg/m²,,吴宇森
+21,1818422650721280006,表面处理,Surface Treatment,kg/m²,,吴宇森
+22,1818422650721280007,添加剂,Additives,kg/m²,,吴宇森
+23,1818422650721280008,玻璃加固,Glass reinforcement,kg/m²,,吴宇森
+24,1818422650721280009,阻燃剂,Flame Retardant,kg/m²,,吴宇森
+25,1818422650721280010,二氧化钛,Titanium Dioxide,kg/m²,,吴宇森
+26,1818422650721280011,压光衬垫,Calendered underlay,kg/m²,,吴宇森
+27,1818422650721280012,总计（产品组件）,TOTAL (Product components),kg/m²,,吴宇森
+28,1818422650721280013,产品包装纸板,Product Packaging Cardboard,kg/m²,,吴宇森
+29,1818422650721280014,产品包装纸箔,Product Packaging Paper Foil,kg/m²,,吴宇森
+30,1818422650721280015,产品包装 PP（圆盘）,Product Packaging PP (Disc),kg/m²,,吴宇森
+31,1818422650721280016,产品包装 PP（插头）,Product Packaging PP (Plug),kg/m²,,吴宇森
+32,1818422650721280017,总计（包装材料）,TOTAL (Packaging materials),kg/m²,,吴宇森
+33,1818425570854445056,石膏,Gypsum,%,,吴宇森
+34,1818425570854445058,水,Water,%,,吴宇森
+35,1818425570854445060,羊毛,Fleece,%,,吴宇森
+36,1818425570854445062,补充,Additivies,%,,吴宇森
+37,1818425688664055808,无纺布_PET_PP,Non_woven_PET_PP,%,,吴宇森
+38,1818425688664055809,纱线_PA6,Yarn_PA6,%,,吴宇森
+39,1818425688664055810,SBR_compound,SBR_compound,%,,吴宇森
+40,1818425688664055811,三水铝,Aluminium_trihydrate,%,,吴宇森
+41,1818425688664055812,初级粉笔,Primary_chalk,%,,吴宇森
+42,1818425688664055813,玻璃_scrim,Glass_scrim,%,,吴宇森
+43,1818425688664055814,生态基地_再生粉笔,EcoBase_recycled_chalk,%,,吴宇森
+44,1818425688664055815,纸板箱,Cardboard_box,kg,,吴宇森
+45,1818425688664055816,木制托盘,Wooden_pallet,kg,,吴宇森
+46,1818425837616373761,消费后材料,Post-consumer material,weight-%,,吴宇森
+47,1818425837616373762,生物物质,Biogenic material,weight-% and kg C/kg,,吴宇森
+48,1818425837616373763,包装材料 重量,Packaging materials Weight,kg/m²,,吴宇森
+49,1818425837616373764,包装材料 重量-%（与产品相比）,Packaging materials Weight-% (versus the product),%,,吴宇森
+50,1818425837616373765,包装材料 重量 生物碳,Packaging materials Weight biogenic carbon,kg C/kg,,吴宇森
+51,1818425979459346434,可再生材料,Renewable material,%,,吴宇森
+52,1818425979459346435,重量（与产品相比）,Weight (versus the product),%,,吴宇森
+53,1818426521405366272,PVC_Suspension,PVC_Suspension,kg/m²,,吴宇森
+54,1818426521405366273,增塑剂,Plasticizer,kg/m²,,吴宇森
+55,1818426521405366274,环氧化大豆油,Epoxidised_soya_bean_oil,kg/m²,,吴宇森
+56,1818426521405366275,稳定剂_锌,Stabilizer_CaZn,kg/m²,,吴宇森
+57,1818426521405366277,表面处理,Surface_Treatment,kg/m²,,吴宇森
+58,1818426521405366278,阻燃,Flame_Retardent,kg/m²,,吴宇森
+59,1818426521405366279,砑光_下层,Calendered_Underlay,kg/m²,,吴宇森
+60,1818426521405366281,产品_包装_纸板,Product_Packaging_Cardboard,kg/m²,,吴宇森
+61,1818426521405366282,产品_包装_纸张_（铝箔）,Product_Packaging_Paper_(Foil),kg/m²,,吴宇森
+62,1818426521405366283,产品包装_PP_（光盘）,Product_Packaging_PP_(Disc),kg/m²,,吴宇森
+63,1818426521405366284,包装,TOTAL_Packaging,kg/m²,,吴宇森
+64,1818428491583201280,聚合物_重量,Polymers_Weight,%,,吴宇森
+65,1818428491583201282,填充物重量,Fillers_Weight,%,,吴宇森
+66,1818428491583201284,树脂重量,Resins_Weight,%,,吴宇森
+67,1818428491583201286,颜料_重量,Pigments_Weight,%,,吴宇森
+68,1818428491583201288,添加剂重量,Additives_Weight,%,,吴宇森
+69,1818428491583201290,纤维板重量,Fibreboard_Weight,kg,,吴宇森
+70,1818428491583201291,纤维板重量,Fibreboard_Weight,%,,吴宇森
+71,1818428491583201292,生物碳纤维板,Fibreboard_Biogenic_Carbon,kg C/kg,,吴宇森
+72,1818428491583201293,塑料重量,Plastic_Weight,kg,,吴宇森
+73,1818428491583201294,塑料重量,Plastic_Weight,%,,吴宇森
+74,1818428491583201295,金属重量,Metal_Weight,kg,,吴宇森
+75,1818428660861116417,可再生材料,Renewable material,weight-%,,吴宇森
+76,1818428786157559808,添加剂,Additives,%,,吴宇森
+77,1818428786157559809,溶剂,Solvents,%,,吴宇森
+78,1818428786157559810,颜料/着色剂,Pigments/colorants,%,,吴宇森
+79,1818428786157559811,树脂,Resins,%,,吴宇森
+80,1818428786157559812,重量,Weight,%,,吴宇森
+81,1818431861698076673,扩展器,Extenders,%,,吴宇森
+82,1818433200721240064,铝供应商_1_重量,Aluminium_supplier_1_Weight,%,,吴宇森
+83,1818433200721240065,铝_供应商_1_重量比_总计,Aluminium_supplier_1_Weight_Versus_Total,%,,吴宇森
+84,1818433200721240066,铝供应商 2_重量,Aluminium_supplier_2_Weight,%,,吴宇森
+85,1818433200721240067,铝_供应商_2_重量比_总计,Aluminium_supplier_2_Weight_Versus_Total,%,,吴宇森
+86,1818433200721240068,涂料重量,Paint_Weight,%,,吴宇森
+87,1818433200721240069,聚甲醛_POM_重量,Polyoxymethylene_POM_Weight,%,,吴宇森
+88,1818433200721240070,钢_重量,Steel_Weight,%,,吴宇森
+89,1818433200721240071,总重量,TOTAL_Weight,%,,吴宇森
+90,1818433200721240072,总重量与产品重量之比,TOTAL_Weight_Versus_Product,%,,吴宇森
+91,1818433200721240073,聚乙烯_重量,Polyethylene_Weight,kg,,吴宇森
+92,1818433200721240074,聚乙烯重量与产品重量的比较,Polyethylene_Weight_Versus_Product,%,,吴宇森
+93,1818433200721240075,木材重量,Wood_Weight,kg,,吴宇森
+94,1818433200721240076,木材重量与产品重量的比较,Wood_Weight_Versus_Product,%,,吴宇森
+95,1818433200721240077,纸箱重量,Cardboard_box_Weight,kg,,吴宇森
+96,1818433200721240078,纸板箱重量与产品重量的比较,Cardboard_box_Weight_Versus_Product,%,,吴宇森
+97,1818433200721240079,包装材料总重量,TOTAL_Packaging_Materials_Weight,kg,,吴宇森
+98,1818433200721240080,包装材料总重量_相对于产品重量,TOTAL_Packaging_Materials_Weight_Versus_Product,%,,吴宇森
+99,1818433461753749508,颜料/着色剂,Pigments/Colorant,%,,吴宇森
+100,1818433919356510208,铝,Aluminium,g,,吴宇森
+101,1818433919356510209,不锈钢,Stainless steel,g,,吴宇森
+102,1818433919356510210,钢,Steel,g,,吴宇森
+103,1818433919356510211,聚酰胺,Polyamide,g,,吴宇森
+104,1818433919356510212,聚甲醛,Polyoxymethyle,g,,吴宇森
+105,1818433919356510213,其他金属,Other metal,g,,吴宇森
+106,1818433919356510214,锌合金,Zinc alloy,g,,吴宇森
+107,1818433919356510215,总重量（克）,Total weight (g),g,,吴宇森
+108,1818433919356510216,木材,Wood,g,,吴宇森
+109,1818433919356510217,纸板,Cardboard,g,,吴宇森
+110,1818433919356510218,塑料,Plastic,g,,吴宇森
+111,1818433919356510219,总计 (g),TOTAL (g),g,,吴宇森
+112,1818434078043807748,聚丙烯,Polypropylene,g,,吴宇森
+113,1818434078043807749,聚甲醛,Polyoxymethylene,g,,吴宇森
+114,1818434387994484736,水基,Water_base,kg,,吴宇森
+115,1818434387994484737,添加剂,Additives,kg,,吴宇森
+116,1818434387994484738,木材,Wood,kg,,吴宇森
+117,1818434387994484739,塑料,Plastic,kg,,吴宇森
+118,1818434387994484740,标签,Labels,kg,,吴宇森
+119,1818434708254760960,橡胶,RUBBER,Weight-%,,吴宇森
+120,1818434708254760961,微滤器,MICROFILTERED,Weight-%,,吴宇森
+121,1818434708254760962,矿物填料,MINERAL FILLER,Weight-%,,吴宇森
+122,1818434708254760963,塑化机,PLASTICIZER,Weight-%,,吴宇森
+123,1818434708254760964,副词,ADITIVES,Weight-%,,吴宇森
+124,1818434708254760965,总计（产品组件）,TOTAL (Product components),"Weight, kg",,吴宇森
+125,1818434708254760966,低密度聚乙烯,LDPE,Weight-%,,吴宇森
+126,1818434708254760967,高密度聚乙烯,HDPE,"Weight, kg",,吴宇森
+127,1818434708254760968,木质,WOOD,Weight-%,,吴宇森
+128,1818434708254760969,纸板和,CARDBOARD AND,Weight-%,,吴宇森
+129,1818434708254760970,总计（包装材料）,TOTAL (Packaging materials),Weight-%,,吴宇森
+130,1818435976373215237,其他金属合金,Other metalalloys,g,,吴宇森
+131,1818435976373215239,总重量（克）,Total weight(g),g,,吴宇森
+132,1818437254994206720,金属,Metals,kg,,吴宇森
+133,1818437254994206722,塑料,Plastics,kg,,吴宇森
+134,1818437254994206723,电气材料,Electrical material,kg,,吴宇森
+135,1818437254994206724,木材油漆,Paint for wood,kg,,吴宇森
+136,1818437254994206725,重量,Weight,kg,,吴宇森
+137,1818437254994206726,纸板,Cardboard,kg,,吴宇森
+138,1818437502638497792,玻璃纱,Glass_yarn,%,,吴宇森
+139,1818437502638497794,涂层,Coating,%,,吴宇森
+140,1818437502638497796,高密度聚乙烯袋,HDPE_bag,kg/m²,,吴宇森
+141,1818437502638497797,高密度聚乙烯袋,HDPE_bag,%,,吴宇森
+142,1818437502638497798,高密度聚乙烯薄膜,HDPE_film,kg/m²,,吴宇森
+143,1818437502638497799,高密度聚乙烯薄膜,HDPE_film,%,,吴宇森
+144,1818437502638497800,木制托盘,Wooden_pallet,kg/m²,,吴宇森
+145,1818437502638497801,木制托盘,Wooden_pallet,%,,吴宇森
+146,1818437502638497802,纸板,Cardboard,kg/m²,,吴宇森
+147,1818437502638497803,纸板,Cardboard,%,,吴宇森
+148,1818437502638497804,尼龙带,Nylon_belt,kg/m²,,吴宇森
+149,1818437502638497805,尼龙带,Nylon_belt,%,,吴宇森
+150,1818437816410185728,骨料,Aggregates,%,,吴宇森
+151,1818437816410185729,传统沥青,Conventional bitumen,%,,吴宇森
+152,1818437816410185730,改性沥青,Modified bitumen,%,,吴宇森
+153,1818438118886612992,重量百分比,%Weight_Aggregates,%,,吴宇森
+154,1818438118886612993,改性沥青重量百分比,%Weight_Modified_bitumen,%,,吴宇森
+155,1818438118886612994,其他重量,%Weight_Others,%,,吴宇森
+156,1818438632198119424,PPS,PPS,kg,,吴宇森
+157,1818438632198119425,"用玻璃纤维增强的 PA6,6","PA6,6 reinforced with glass-fiber",kg,,吴宇森
+158,1818438632198119426,三元乙丙橡胶,EPDM,kg,,吴宇森
+159,1818438632198119428,低密度聚乙烯,LDPE,kg,,吴宇森
+160,1818438632198119429,瓦楞纸板,Corrugated board,kg,,吴宇森
+161,1818439048646369280,PPS_Weight,PPS_Weight,kg,,吴宇森
+162,1818439048646369281,黄铜重量,Brass_Weight,kg,,吴宇森
+163,1818439048646369282,用玻璃纤维增强的 PA6_6_重量,PA6_6_reinforced_with_glass_fiber_Weight,kg,,吴宇森
+164,1818439048646369283,三元乙丙橡胶重量,EPDM_Weight,kg,,吴宇森
+165,1818439048646369284,产品总重量,TOTAL_Product_Weight,kg,,吴宇森
+166,1818439048646369285,重量,LDPE_Weight,kg,,吴宇森
+167,1818439048646369286,瓦楞纸板重量,Corrugated_board_Weight,kg,,吴宇森
+168,1818439048646369288,生物碳重量与产品的百分比,Biogenic_carbon_weight_%_versus_product,%,,吴宇森
+169,1818439048646369289,生物碳重量_千克,Biogenic_carbon_weight_kg,kg,,吴宇森
+170,1818439397591490560,厚度,Thickness,mm,,吴宇森
+171,1818439397591490561,玻璃棉,Glass wool,kg/m2,,吴宇森
+172,1818439397591490562,重量,Weight,kg/m2,,吴宇森
+173,1818439397591490564,塑料包装,Plastic Packaging,kg/m2,,吴宇森
+174,1818439397591490565,木托盘,Wood Pallet,kg/m2,,吴宇森
+175,1818439397591490566,重量-%（与产品相比）,Weight-% (versus the product),%,,吴宇森
+176,1818439535932219393,常规沥青重量百分比,%Weight_Conventional_bitumen,%,,吴宇森
+177,1818439535932219396,消费后材料，重量-%_其他,"Post-consumer_material,weight-%_Others",%,,吴宇森
+178,1818439976317362176,骨料,Aggregates,%Weight,,吴宇森
+179,1818439976317362177,改性沥青,Modified bitumen,%Weight,,吴宇森
+180,1818439976317362178,其他（沙子、纤维素纤维、添加剂等）,"Others (sand, cellulose fibers, additives, etc.)",%Weight,,吴宇森
+181,1818439976317362179,重量,Weight,%Weight,,吴宇森
+182,1818440517680373760,钢丝重量,Steel_wire_Weight,kg,,吴宇森
+183,1818441105218478080,钢,Steel,kg,,吴宇森
+184,1818441105218478081,异氰酸酯,isocyanates,kg,,吴宇森
+185,1818441105218478082,化学成分,Chemical components,kg,,吴宇森
+186,1818441105218478083,其他非化学物质,Others non chemical,kg,,吴宇森
+187,1818441105218478085,PE,PE,kg,,吴宇森
+188,1818441105218478086,每股盈余,EPS,kg,,吴宇森
+189,1818441105218478087,藘,madera,kg,,吴宇森
+190,1818441105218478088,包装总计,TOTAL Packaging,kg,,吴宇森
+191,1818444808713412608,丙烯酸,Acrylicacid,kg,,吴宇森
+192,1818444808713412609,丙烯腈-丁二烯-苯乙烯聚合物,Acrylonitrile-butadiene-styrenecopolymer,kg,,吴宇森
+193,1818444808713412610,醇酸树脂漆，白色，不含水，60% 溶液状态,"Alkydpaint,white,withoutwater,in60%solutionstate",kg,,吴宇森
+194,1818444808713412611,醇酸树脂,Alkydresin,kg,,吴宇森
+195,1818444808713412612,铝合金，AlMg3,"Aluminiumalloy,AlMg3",kg,,吴宇森
+196,1818444808713412613,铝合金、金属矩阵复合材料,"Aluminiumalloy,metalmatrixcomposite",kg,,吴宇森
+197,1818444808713412614,铝、铸件,"Aluminium,castalloy",kg,,吴宇森
+198,1818444808713412615,原生铝锭,"Aluminium,primary,ingot",kg,,吴宇森
+199,1818444808713412616,铝、锻造合金,"Aluminium,wroughtalloy",kg,,吴宇森
+200,1818444808713412617,液态氩,"Argon,liquid",kg,,吴宇森
+201,1818444808713412618,硫化钡,Bariumsulfide,kg,,吴宇森
+202,1818444808713412619,锂离子充电电池，棱柱形,"Battery,Li-ion,rechargeable,prismatic",kg,,吴宇森
+203,1818444808713412620,苯甲酸,Benzoicacid,kg,,吴宇森
+204,1818444808713412621,苄醇,Benzylalcohol,kg,,吴宇森
+205,1818444808713412622,双酚环氧乙烯基酯树脂,BisphenolAepoxybasedvinylesterresin,kg,,吴宇森
+206,1818444808713412623,沉淀碳酸钙,"Calciumcarbonate,precipitated",kg,,吴宇森
+207,1818444808713412624,碳黑色,Carbonblack,kg,,吴宇森
+208,1818444808713412625,液态二氧化碳,"Carbondioxide,liquid",kg,,吴宇森
+209,1818444808713412626,铸铁,Castiron,kg,,吴宇森
+210,1818444808713412627,陶瓷砖,Ceramictile,kg,,吴宇森
+211,1818444808713412628,铬钢管,Chromiumsteelpipe,kg,,吴宇森
+212,1818444808713412629,富铜材料,Copper-richmaterials,kg,,吴宇森
+213,1818444808713412630,基于双环戊二烯的不饱和聚酯树脂,Dicyclopentadienebasedunsaturatedpolyesterresin,kg,,吴宇森
+214,1818444808713412631,柴油机,Diesel,kg,,吴宇森
+215,1818444808713412632,环氧树脂绝缘子、Al2O3,"Epoxyresininsulator,Al2O3",kg,,吴宇森
+216,1818444808713412633,液体环氧树脂,"Epoxyresin,liquid",kg,,吴宇森
+217,1818444808713412634,脂肪酸,Fattyacid,kg,,吴宇森
+218,1818444808713412635,高碳铬铁，55%Cr,"Ferrochromium,highcarbon,55%Cr",kg,,吴宇森
+219,1818444808713412636,镀膜平板玻璃,"Flatglass,coated",kg,,吴宇森
+220,1818444808713412637,玻璃纤维,Glassfibre,kg,,吴宇森
+221,1818444808713412638,玻璃纤维增强塑料,Glassfibrereinforcedplastic,kg,,吴宇森
+222,1818444808713412639,石墨,Graphite,kg,,吴宇森
+223,1818444808713412640,石膏，矿物,"Gypsum,mineral",kg,,吴宇森
+224,1818444808713412641,石灰岩,Limestone,kg,,吴宇森
+225,1818444808713412642,六氟磷酸锂,Lithiumhexafluorophosphate,kg,,吴宇森
+226,1818444808713412643,润滑油,Lubricatingoil,kg,,吴宇森
+227,1818444808713412644,马来不饱和聚酯树脂,Maleicunsaturatedpolyesterresin,kg,,吴宇森
+228,1818444808713412645,尼龙6,Nylon6,kg,,吴宇森
+229,1818444808713412646,尼龙 6-6,Nylon6-6,kg,,吴宇森
+230,1818444808713412647,液氧,"Oxygen,liquid",kg,,吴宇森
+231,1818444808713412648,聚碳酸酯,Polycarbonate,kg,,吴宇森
+232,1818444808713412649,不饱和聚酯树脂,"Polyesterresin,unsaturated",kg,,吴宇森
+233,1818444808713412650,聚对苯二甲酸乙二醇酯，颗粒，无定形,"Polyethyleneterephthalate,granulate,amorphous",kg,,吴宇森
+234,1818444808713412651,聚对苯二甲酸乙二醇酯，颗粒，瓶装,"Polyethyleneterephthalate,granulate,bottlegrade",kg,,吴宇森
+235,1818444808713412652,高密度粒状聚乙烯,"Polyethylene,highdensity,granulate",kg,,吴宇森
+236,1818444808713412653,粒状低密度聚乙烯,"Polyethylene,lowdensity,granulate",kg,,吴宇森
+237,1818444808713412654,聚亚苯基硫醚,Polyphenylenesulfide,kg,,吴宇森
+238,1818444808713412655,粒状聚丙烯,"Polypropylene,granulate",kg,,吴宇森
+239,1818444808713412656,聚氨酯、软泡沫,"Polyurethane,flexiblefoam",kg,,吴宇森
+240,1818444808713412657,聚氨酯、硬质泡沫,"Polyurethane,rigidfoam",kg,,吴宇森
+241,1818444808713412658,散装聚合聚氯乙烯,"Polyvinylchloride,bulkpolymerised",kg,,吴宇森
+242,1818444808713412659,稀土氧化物浓缩物,Rareearthoxideconcentrate,kg,,吴宇森
+243,1818444808713412660,金红石，95%二氧化钛,"Rutile,95%titaniumdioxide",kg,,吴宇森
+244,1818444808713412661,硅产品,Siliconeproduct,kg,,吴宇森
+245,1818444808713412662,钢，铬钢18/8,"Steel,chromiumsteel18/8",kg,,吴宇森
+246,1818444808713412663,低合金钢,"Steel,low-alloyed",kg,,吴宇森
+247,1818444808713412664,热轧低合金钢,"Steel,low-alloyed,hotrolled",kg,,吴宇森
+248,1818444808713412665,非合金钢,"Steel,unalloyed",kg,,吴宇森
+249,1818444808713412666,苯乙烯,Styrene,kg,,吴宇森
+250,1818444808713412667,硫酸,Sulfuricacid,kg,,吴宇森
+251,1818444808713412668,合成橡胶,Syntheticrubber,kg,,吴宇森
+252,1818444808713412669,纺织品、聚酯无纺布,"Textile,non-wovenpolyester",kg,,吴宇森
+253,1818444808713412670,锌,Zinc,kg,,吴宇森
+254,1818846141178191872,RE-PET,RE-PET,%,,吴宇森
+255,1818846141178191873,共聚酯 B,Co-polyester B,%,,吴宇森
+256,1818846141178191874,Cp 聚酯 A,Cp-polyester A,%,,吴宇森
+257,1818846141178191875,其他,Others,%,,吴宇森
+258,1818846335827451904,PA6 芯片,PA6chip,kg,,吴宇森
+259,1818846335827451905,色母粒,Masterbatch,kg,,吴宇森
+260,1819108565189926914,塑料薄膜,Plastic film,kg,,吴宇森
+261,1819109424879640576,ReviWool®,ReviWool®,kg,,吴宇森
+262,1819109424879640577,聚酰胺,Polyamide,kg,,吴宇森
+263,1819109542513090561,塑料薄膜,Plastic_film,kg,,吴宇森
+264,1819109542513090563,重量,Weight,kg/kg,,吴宇森
+265,1819109856775512064,羊毛,Wool®,kg,,吴宇森
+266,1819110020030406659,包装材料总计,TOTAL_Packaging_Materials,kg/kg,,吴宇森
+267,1819110020030406660,每平方米总重量,TOTAL_weight_per_m2,kg/m2,,吴宇森
+268,1819125808447627264,重量百分比,Weight_%,%,,吴宇森
+269,1819132116466933760,聚对苯二甲酸乙二醇酯,Polyethylene_terephthalate,kg/m2,,吴宇森
+270,1819132116466933761,其他_（添加剂）,Other_(Additive),kg/m2,,吴宇森
+271,1819137833995345920,消费后混合塑料,Post-consumer mixed plastic,%,,吴宇森
+272,1819140036432764929,铁,Fe,kg,,吴宇森
+273,1819140036432764930,锰,Mn,kg,,吴宇森
+274,1819140036432764931,Cr,Cr,kg,,吴宇森
+275,1819140036432764932,C,C,kg,,吴宇森
+276,1819140036432764933,其他,Others,kg,,吴宇森
+277,1819142765028843520,消费后废铝,Aluminium_scrap_post-consumer,kg,,吴宇森
+278,1819142765028843521,工业废铝,Aluminium_scrap_post-industrial,kg,,吴宇森
+279,1819142765028843522,消费后废铜,Copper_scrap_post-consumer,kg,,吴宇森
+280,1819143876913668096,再生铝__二次加工,Recycled_aluminum__Secondary_,kg,,吴宇森
+281,1819143876913668097,铝__内部回收,Aluminum__internal_recycling_,kg,,吴宇森
+282,1819143876913668098,Alloying_elements__Si__Ti__Mn__Sr_,Alloying_elements__Si__Ti__Mn__Sr_,kg,,吴宇森
+283,1819144038272737280,Al,Al,g,,吴宇森
+284,1819144038272737282,杂质,Impurities,g,,吴宇森
+285,1819144038272737284,重量,Weight,g,,吴宇森
+286,1819145160878202880,不锈钢,Stainless_steel,kg,,吴宇森
+287,1819145160878202881,聚合物,Polymer,kg,,吴宇森
+288,1819145160878202882,橡胶,Rubber,kg,,吴宇森
+289,1819154434496929793,电子和电缆,Electronics_and_cables,kg,,吴宇森
+290,1819154434496929795,聚丙烯,Polypropylene,kg,,吴宇森
+291,1819154434496929796,玻璃,Glass,kg,,吴宇森
+292,1819154434496929797,铝,Aluminium,kg,,吴宇森
+293,1819154434496929798,环氧树脂,Epoxy,kg,,吴宇森
+294,1819154434496929803,瓦楞纸板,Corrugated_cardboard,kg,,吴宇森
+295,1819154434496929804,挤压聚苯乙烯,Extruded_polystyren,kg,,吴宇森
+296,1819155776577740801,锰_钢,Manganese_steel,kg,,吴宇森
+297,1819155776577740802,铸铁,Cast_iron,kg,,吴宇森
+298,1819155776577740804,铜,Copper,kg,,吴宇森
+299,1819155776577740805,镍,Nickel,kg,,吴宇森
+300,1819155776577740806,Azobe,Azobe,kg,,吴宇森
+301,1819155776577740808,含 30% 玻璃纤维的 6.6 聚酰胺,Polyamide_6.6_with_30%_glass_fibers,kg,,吴宇森
+302,1819155776577740809,树脂_（环氧树脂）,Resin_(epoxy),kg,,吴宇森
+303,1819155776577740810,PE_LD,PE_LD,kg,,吴宇森
+304,1819155776577740811,酚醛树脂,Phenolic_resin,kg,,吴宇森
+305,1819155776577740812,液晶聚合物,Liquid_crystal_polymer,kg,,吴宇森
+306,1819155776577740813,玻璃纤维,Glass_fibre,kg,,吴宇森
+307,1819155776577740814,防腐环氧主漆,Anti_corrosion_epoxy_primary_paint,kg,,吴宇森
+308,1819156514859130881,铝质,Aluminum,kg,,吴宇森
+309,1819156514859130883,电子产品,Electronics,kg,,吴宇森
+310,1819156514859130884,其他,Other,kg,,吴宇森
+311,1819156514859130886,纸张（手册等）,Paper (manuals etc.),kg,,吴宇森
+312,1819156514859130887,木托盘（24 千克，在 8 个单位和 20 个使用周期之间分配质量）,"Wooden pallet (24 kg,mass allocation between8 units and 20 use cycles)",kg,,吴宇森
+313,1819158719460810755,垫圈,Gasket,kg,,吴宇森
+314,1819159716518174725,纸板,Cardboard,weight-%,,吴宇森
+315,1819159716518174726,纸张（手册等）,Paper (manuals etc.),weight-%,,吴宇森
+316,1819159716518174727,木托盘（24 千克，在 8 个单位和 20 个使用周期之间分配质量）,"Wooden pallet (24 kg,mass allocation between8 units and 20 use cycles)",weight-%,,吴宇森
+317,1819159716518174728,总计（不包括木托盘）,TOTAL(excl. wooden pallet),kg,,吴宇森
+318,1819161699010486272,天然石重量,Natural_Stone_Weight,kg,,吴宇森
+319,1819162411647901696,纸张,Paper,kg,,吴宇森
+320,1819162411647901697,酚醛树脂,Phenolic resin,kg,,吴宇森
+321,1819162411647901698,三聚氰胺树脂,Melamine resin,kg,,吴宇森
+322,1819162889324601344,颜料,Pigment,kg,,吴宇森
+323,1819162889324601346,金属,Metal,kg,,吴宇森
+324,1819163100503613441,C,C,weight-%,,吴宇森
+325,1819163100503613444,锰,Mn,weight-%,,吴宇森
+326,1819163100503613446,其他,Others,weight-%,,吴宇森
+327,1819164108126429184,纸板箱重量,Card-board box Weight,kg,,吴宇森
+328,1819164108126429185,塑料衬垫 重量,Plastic liner Weight,kg,,吴宇森
+329,1819164108126429186,包装总重量,TOTAL Packaging Weight,kg,,吴宇森
+330,1819164108126429187,纸板箱 重量 生物碳,Card-board box Weight biogenic carbon,kg C/kg,,吴宇森
+331,1819164108126429188,塑料衬垫 重量 生物碳,Plastic liner Weight biogenic carbon,kg C/kg,,吴宇森
+332,1819164108126429189,总包装重量 生物碳,TOTAL Packaging Weight biogenic carbon,kg C/kg,,吴宇森
+333,1819166895254020096,标签材料,Label_material,kg,,吴宇森
+334,1819166895254020097,聚乙烯,Polyethylene,kg,,吴宇森
+335,1819166895254020098,其他材料，包括添加剂,Other_materials_including_additives,kg,,吴宇森
+336,1819166895254020100,木材,Timber,kg,,吴宇森
+337,1819166895254020103,PET,PET,kg,,吴宇森
+338,1819166895254020104,聚酯薄膜标签,Polyester_film_label,kg,,吴宇森
+339,1819166895254020105,包装材料总计,TOTAL_Packaging_materials,kg,,吴宇森
+340,1819167787105656832,总计（千克）,TOTAL_(kg),kg,,吴宇森
+341,1819167787105656834,纸板,Paper_cardboard,kg,,吴宇森
+342,1819167787105656835,塑料箔,Plastic_foil,kg,,吴宇森
+343,1819168071240392704,沥青,Bitumen,%,,吴宇森
+344,1819168071240392706,矿物质作为填充物,Minerals as filler,%,,吴宇森
+345,1819168071240392708,SBS,SBS,%,,吴宇森
+346,1819168071240392710,加固,Reinforcement,%,,吴宇森
+347,1819168071240392712,总计（公斤）,TOTAL (kg),e+00,,吴宇森
+348,1819168647286104064,粘土,Clay,kg,,吴宇森
+349,1819168647286104065,长石,Feldspar,kg,,吴宇森
+350,1819168647286104066,高岭土,Kaolin,kg,,吴宇森
+351,1819168647286104067,硅酸钠,Sodium Silicate,kg,,吴宇森
+352,1819168647286104068,沙子,Sand,kg,,吴宇森
+353,1819168647286104069,投手,Pitcher,kg,,吴宇森
+354,1819168647286104070,碳酸钡,Barium Carbonate,kg,,吴宇森
+355,1819168647286104071,纯碱,Soda ash,kg,,吴宇森
+356,1819168647286104072,硅酸,Silicic acid,kg,,吴宇森
+357,1819168647286104075,纸箱,Carton,kg,,吴宇森
+358,1819169984132423684,消费后材料,Post-consumer material,Weight-% (versus the product),,吴宇森
+359,1819169984132423685,生物物质,Biogenic material,"Weight biogenic carbon, kg C/kg",,吴宇森
+360,1819170300022235136,总计（公斤）,TOTAL (kg),kg,,吴宇森
+361,1819170300022235138,纸张,Paper /,kg,,吴宇森
+362,1819170300022235139,塑料箔,Plastic foil,kg,,吴宇森
+363,1819170653220380672,硫酸钡重量,Barium_sulfate_Weight,kg,,吴宇森
+364,1819170653220380673,聚丙烯_重量,Polypropylene_Weight,kg,,吴宇森
+365,1819170653220380674,TPE 重量,TPE_Weight,kg,,吴宇森
+366,1819170653220380675,其他（如添加剂、颜料）_重量,"Other_(such_as_additives,_pigments)_Weight",kg,,吴宇森
+367,1819170653220380676,总重量,TOTAL_Weight,kg,,吴宇森
+368,1819170653220380677,PET 带重量,PET-strip_Weight,kg,,吴宇森
+369,1819170879758934020,包装材料总计,TOTAL_packaging_materials,kg,,吴宇森
+370,1819171190309396489,共计_2,TOTAL_2,kg,,吴宇森
+371,1819171340029272066,纸_/纸板,Paper_/cardboard,kg,,吴宇森
+372,1819171340029272068,包装,TOTAL_Packaging,kg,,吴宇森
+373,1819172120484388865,填料,Filler,%,,吴宇森
+374,1819172120484388868,颜料,Pigments,%,,吴宇森
+375,1819172427289337856,无纺布和聚丙烯织物,Non_woven_and_scrim_PP,kg,,吴宇森
+376,1819172427289337857,薄膜_高密度聚乙烯,Film_HDPE,kg,,吴宇森
+377,1819172427289337858,粘合剂,Bonding_agent,kg,,吴宇森
+378,1819172427289337859,印刷_油墨,Printing_ink,kg,,吴宇森
+379,1819172427289337860,产品总计,Total_product,kg,,吴宇森
+380,1819172427289337861,电影_PE,Film_PE,kg,,吴宇森
+381,1819172427289337863,托盘,Pallet,kg,,吴宇森
+382,1819172427289337864,包装总计,Total_packaging,kg,,吴宇森
+383,1819172427289337865,带包装的产品总数,TOTAL_Product_with_packaging,kg,,吴宇森
+384,1819172751311904768,大麻籽重量,Hemp_shives_hurds_Weight,kg,,吴宇森
+385,1819172751311904769,活页夹重量,Binder_Weight,kg,,吴宇森
+386,1819172751311904771,塑料薄膜重量,Plastic_film_Weight,kg,,吴宇森
+387,1819172751311904772,木制托盘重量,Wooden_pallet_Weight,kg,,吴宇森
+388,1819172751311904773,标签重量,Label_Weight,kg,,吴宇森
+389,1819173389194240001,大麻刨花_生化材料_CO2,Hemp_shives_hurds_Biogenic_material_CO2,kg,,吴宇森
+390,1819173389194240003,粘结剂_生化材料_CO2,Binder_Biogenic_material_CO2,kg,,吴宇森
+391,1819173389194240005,总计_生物质_CO2,TOTAL_Biogenic_material_CO2,kg,,吴宇森
+392,1819173389194240007,塑料薄膜重量百分比,Plastic_film_Weight_percent,%,,吴宇森
+393,1819173389194240008,塑料薄膜_生化材料_C,Plastic_film_Biogenic_material_C,kg,,吴宇森
+394,1819173389194240009,塑料薄膜_生化材料_CO2,Plastic_film_Biogenic_material_CO2,kg,,吴宇森
+395,1819173389194240011,木制托盘重量百分比,Wooden_pallet_Weight_percent,%,,吴宇森
+396,1819173389194240012,木制托盘_生物材料_C,Wooden_pallet_Biogenic_material_C,kg,,吴宇森
+397,1819173389194240013,木制托盘_生化材料_CO2,Wooden_pallet_Biogenic_material_CO2,kg,,吴宇森
+398,1819173389194240015,标签重量百分比,Label_Weight_percent,%,,吴宇森
+399,1819173389194240016,标签_生化材料_C,Label_Biogenic_material_C,kg,,吴宇森
+400,1819173389194240017,标签_生化材料_CO2,Label_Biogenic_material_CO2,kg,,吴宇森
+401,1819173389194240018,包装材料总重量,TOTAL_Packaging_materials_Weight,kg,,吴宇森
+402,1819173389194240019,总包装材料重量百分比,TOTAL_Packaging_materials_Weight_percent,%,,吴宇森
+403,1819173389194240020,总计_包装材料_生化材料_C,TOTAL_Packaging_materials_Biogenic_material_C,kg,,吴宇森
+404,1819173389194240021,总计_包装材料_生化材料_CO2,TOTAL_Packaging_materials_Biogenic_material_CO2,kg,,吴宇森
+405,1819174491352473600,丙烯酸聚合物_重量,Acrylic_copolymers_Weight,kg,,吴宇森
+406,1819174491352473601,填充物重量,Fillers_Weight,kg,,吴宇森
+407,1819174491352473602,添加剂重量,Additives_Weight,kg,,吴宇森
+408,1819174491352473603,重量,Water_Weight,kg,,吴宇森
+409,1819174491352473604,产品总重量,Total_product_Weight,kg,,吴宇森
+410,1819174491352473605,塑料零件_高密度聚乙烯_重量,Plastic_parts_HDPE_Weight,kg,,吴宇森
+411,1819174491352473606,纸板重量,Cardboard_Weight,kg,,吴宇森
+412,1819174491352473607,胶片_PE_重量,Film_PE_Weight,kg,,吴宇森
+413,1819174491352473608,托盘重量,Pallet_Weight,kg,,吴宇森
+414,1819174491352473609,包装总重量,Total_packaging_Weight,kg,,吴宇森
+415,1819174491352473610,带包装产品的总重量,TOTAL_Product_with_packaging_Weight,kg,,吴宇森
+416,1819174888527896576,云杉木材重量,Wood_spruce_Weight,kg,,吴宇森
+417,1819174888527896577,桦木重量,Wood_birch_Weight,kg,,吴宇森
+418,1819174888527896578,酚醛树脂重量,Phenolic_resin_Weight,kg,,吴宇森
+419,1819174888527896579,固化剂重量,Hardener_Weight,kg,,吴宇森
+420,1819174888527896580,防护剂重量,Protective_agents_Weight,kg,,吴宇森
+421,1819174888527896581,酚醛薄膜重量,Phenolic_films_Weight,kg,,吴宇森
+422,1819174888527896582,粘合剂_重量,Adhesives_Weight,kg,,吴宇森
+423,1819174888527896585,塑料带聚酯重量,Plastic_band_polyester_Weight,kg,,吴宇森
+424,1819174888527896586,塑料包装材料_LDPE_重量,Plastic_wrap_LDPE_Weight,kg,,吴宇森
+425,1819174888527896587,木床重量,Bed_timber_Weight,kg,,吴宇森
+426,1819174888527896588,胶合板重量,Plywood_Weight,kg,,吴宇森
+427,1819175094891847680,总计,Aggregate,kg,,吴宇森
+428,1819175094891847681,活页夹,Binder,kg,,吴宇森
+429,1819175094891847682,再生沥青,Reclaimed_asphalt,kg,,吴宇森
+430,1819177184296968192,预镀锌钢,Pre-galvanized steel,kg,,吴宇森
+431,1819177346100633601,水分重量,Moisture_Weight,kg,,吴宇森
+432,1819177346100633602,粘合剂_树脂_重量,Adhesive_resin_Weight,kg,,吴宇森
+433,1819177346100633603,淬火剂和填充剂重量,Hardeners_and_fillers_Weight,kg,,吴宇森
+434,1819177346100633604,酚醛涂层重量,Phenolic_coatings_Weight,kg,,吴宇森
+435,1819177346100633605,封边重量,Edge_sealing_Weight,kg,,吴宇森
+436,1819177346100633606,其他_合成粘合剂和填料_重量,Others_composing_adhesives_and_fillers_Weight,kg,,吴宇森
+437,1819177346100633607,粘合剂和填料总重量,TOTAL_Adhesive_and_Filler_Weight,kg,,吴宇森
+438,1819177346100633611,聚酯带重量,Polyester_band_Weight,kg,,吴宇森
+439,1819177982229749760,桦木重量,Wood_Birch_Weight,kg,,吴宇森
+440,1819177982229749761,木材_云杉_重量,Wood_Spruce_Weight,kg,,吴宇森
+441,1819177982229749763,粘合剂_树脂_重量,Adhesive_Resin_Weight,kg,,吴宇森
+442,1819177982229749764,淬火剂和填料重量,Hardeners_and_Fillers_Weight,kg,,吴宇森
+443,1819177982229749765,其他_重量,Others_Weight,kg,,吴宇森
+444,1819177982229749767,木床重量,Bed_Timber_Weight,kg,,吴宇森
+445,1819177982229749770,涤纶_带子_重量,Polyester_Band_Weight,kg,,吴宇森
+446,1819177982229749771,塑料缠绕膜_LDPE_重量,Plastic_Wrap_LDPE_Weight,kg,,吴宇森
+447,1819178122990592000,硅酸盐水泥重量,Portland_Cement_Weight,kg,,吴宇森
+448,1819178122990592001,苍蝇重量,Fly_Ash_Weight,kg,,吴宇森
+449,1819178122990592002,低碳钢重量,Low_Carbon_Steel_Weight,kg,,吴宇森
+450,1819178122990592003,水洗细砂重量,Washed_Fine_Sand_Weight,kg,,吴宇森
+451,1819178122990592004,阴离子洗涤剂混合重量,Anionic_Detergent_Blend_Weight,kg,,吴宇森
+452,1819178122990592005,非离子表面活性剂重量,Non_ionic_Surfactant_Weight,kg,,吴宇森
+453,1819178122990592006,锑重,Antimony_Weight,kg,,吴宇森
+454,1819178122990592007,聚丙烯纤维_重量,Polypropylene_Filaments_Weight,kg,,吴宇森
+455,1819178898525790209,消费后材料，重量-%,"Post-consumer material, weight-%",%,,吴宇森
+456,1819178898525790210,生物物质，重量-千克,"Biogenic material, weight- kg",kg,,吴宇森
+457,1819178898525790226,总重量,Total Weight,kg,,吴宇森
+458,1819178898525790227,消费后材料总量（重量百分比,"Total Post-consumer material, weight-%",%,,吴宇森
+459,1819178898525790228,生物物质总量，重量-千克,"Total Biogenic material, weight- kg",kg,,吴宇森
+460,1819179882572423168,沙子重量,Sand_Weight,kg,,吴宇森
+461,1819179882572423170,水泥重量,Cement_Weight,kg,,吴宇森
+462,1819179882572423172,纸浆重量,Pulp_Weight,kg,,吴宇森
+463,1819179982677876736,铝质_Circal75R_钢坯_重量,Aluminium_Circal75R_Billet_Weight,kg,,吴宇森
+464,1819180691095822336,平均再生方坯,Average recycled billet,kg,,吴宇森
+465,1819181596650250240,水泥,Cement,kg,,吴宇森
+466,1819181596650250241,纸浆,Pulp,kg,,吴宇森
+467,1819181961726664704,重量汇总,Aggregate_Weight,kg,,吴宇森
+468,1819182055368695810,再生沥青,Reclaimed asphalt,kg,,吴宇森
+469,1819185217651613696,净重,Net weight,kg,,吴宇森
+470,1819185217651613700,重量（千克,"Weight, kg",kg,,吴宇森
+471,1819185388129099776,Iron_ore,Iron_ore,%,,吴宇森
+472,1819185388129099777,褐煤,Lignite,%,,吴宇森
+473,1819185388129099778,石灰岩,Limestone,%,,吴宇森
+474,1819185388129099779,铁屑,Iron_scrap,%,,吴宇森
+475,1819185388129099780,铁屑,Iron_scrap,kg_C/kg,,吴宇森
+476,1819185388129099781,石灰,Lime,%,,吴宇森
+477,1819185388129099782,原材料加工_钢材加工,Processing_raw_material_Steelmake,%,,吴宇森
+478,1819185388129099783,白云石,Dolomite,%,,吴宇森
+479,1819185388129099786,钢带,Steel_band,%,,吴宇森
+480,1819185388129099787,紧固件,Fastener,%,,吴宇森

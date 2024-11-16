@@ -1,0 +1,5 @@
+# Time representative ness  
+
+The primary data collected are based on the required materials and energy to manufacture the product.  The primary data has been collected in the year 2022. Generic data is no older than 10 years and  specific data is no older than 5 years. LCI data for polymer-modified bitumen have been adapted from  the Australasian EPD Programme Ltd (2019). LCI data for bitumen is taken from Eurobitume (2021a)  has been supplemented with data from Ecoinvent (3.9.1), and information on polymer content has been  taken from mixture composition.  
+
+The representative ness, completeness, reliability, and consistency are judged as good.

@@ -1,0 +1,23 @@
+# Product information  
+
+Product name:   Asphalt mixtures  Product identification:   
+![](images/2a798939c0b0ee7c9b1a93c1034de02f604c0e77a2023c87dd5fbb19284b8551.jpg)  
+
+Product description: Asphalt plant manufacture asphalt mixtures for a variety of different purposes,  ranging from highways, roads and city streets to industrial pavements. The asphalt mixtures that can be  produced at the declared plant are hot mix asphalt (HMA), warm mix asphalt (WMA), soft asphalt (SA)  and cold asphalt. The asphalt mixtures also are grouped by their application in the pavement. This plant  can manufacture the following asphalt mixture types: asphalt concrete (AC) for surface  $(\mathsf{V})$ , binder (A),  base (P) and surface-base (PD) layers, stone mastic asphalt (SMA), noise resistant (TM) and for traffic  loads - light (L), normal (N) and heavy (S). Mixtures can be produced with paving grade (PG) bitumen  or polymer-modified bitumen (PMB) and with reclaimed asphalt (RA) or without.  
+
+The main components in asphalt mixtures are coarse and fine aggregates, filler and bitumen. Other  materials and additives are added to ensure the durability of the layers, their content varies depending  on the asphalt mixture type. These include cellulose fibre which normally constitutes  $0.3\%$  of mineral  aggregates' weight. Reclaimed asphalt is added to asphalt mixtures to replace virgin aggregates and  virgin bitumen.  
+
+At the plant, the manufacture of asphalt mixture is managed from the on-site control room. Aggregates,  which are purchased and transported from external suppliers, are stored in open stockpiles of different  fractions (e.g. 2/5, 5/8, 8/11 etc.). Fine aggregates and RA are stored in covered stockpiles (e.g. 0/2,  RA etc.). The aggregates in an individual stockpile are hauled with a front loader to a cold feed bin of  the asphalt plant, then together with the other aggregate fractions of a given mix formulation (recipe)  are transported further by a conveyor belt running below the bins. The mixed aggregates enter a rotating  dryer drum, where the materials are dried and heated to the required temperature. The heated material  continues to an elevator and is further transported up to the batch tower. Then dry and hot aggregates  are screened and separated according to particle size and put into a weight hopper. The dry aggregates  are mixed with bitumen, filler, fibres and other additives in the mixing chamber. When a homogeneous  asphalt mixture is obtained and transferred with a skip hoist to an insulated storage silo before being  retrieved by a truck.  
+
+The emissions (i.e. polyaromatic hydrocarbons, PAHs) generated in the dryer drum depend on  production temperatures, fuel type, amount and type of techniques used for adding RA. In this plant, RA  is added without preheating (cold feed) so PAHs content is minimal, all emissions created at the drying  drum or at the top of the batch tower are transported for filtering at the collector.  
+
+UN CPC code: 15330  
+
+Geographical scope: Lithuania  
+
+Address of production site(s): Old Ukrmergės road 185 Kirzinės vs. Maišiagalos sen. LT-14247 Vilniaus  r.  
+
+![](images/4518e6bc820c73e43412b097182bf2b9fef55fd6546eef3a63b1b6b19dc7de66.jpg)  
+
+Location of the AB Eurovia Lietuva asphalt  Schematic illustration of an asphalt plant  production facilities  
+

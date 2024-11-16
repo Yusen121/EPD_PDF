@@ -1,0 +1,8 @@
+# Allocations  
+
+There are no co-products in the production of ceramic tile  manufactured by Kaleseramik. Hence, there was no need for  co-product allocation. Kaleseramik sources raw materials from  different l ocations across Turkey and other parts of the world and  by different means of transport (truck and ship). For this reason,  transport was allocated according to tonnages for almost all raw  materials bought by Kaleseramik. Kaleseramik manufactures  various ceramic tiles in the Company’s Çanakkale plant in Turkey.  Electricity and combined heat power (CHP) powered by natural gas  are used. Raw materials, transport, packaging, waste, and energy  consumption data were allocated for each product using related  production tonnages from Kaleseramik’s Çanakkale plant for the  average product.  
+
+# LCA Information  
+
+![](images/a01904ef9f6e34b85db2696a1155bd6dce035889dd378fdecc80ec38717ae333.jpg)  
+( $\mathsf{X}=$  Module included, - $=$  Module not included)

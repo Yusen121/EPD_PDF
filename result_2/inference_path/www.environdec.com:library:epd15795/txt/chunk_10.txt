@@ -1,0 +1,17 @@
+# Tutti i risultati sono relativi ad un’unità dichiarata:  $\mathbf{\lambda}_{1}\mathbf{\mathfrak{m}}^{3}$  di calcestruzzo.  
+
+I risultati stimati dell'impatto sono solo affermazioni relative, che non indicano né i limiti (superiori o inferiori) delle categorie di impatto, né il superamento dei valori di soglia, né i margini di sicurezza e/o i  rischi.  
+
+RIULTATI DEGLI INDICATORI D’IMPATTO AMBIENTALE OBBLIGATORI  
+
+Tabella 3- Indicatori obbligatori della categoria di impatto secondo EN 15804  
+
+![](images/df9d5c53e76df8464093458c86ed60dc29d935363a85d64725a159d11ed020d9.jpg)  
+
+![](images/13a3edbd4a8258e66916db6703746968f587cd32daeea847ede73d4e13f3c046.jpg)  
+
+# INDICATORI DI IMPATTI AMBIENTALI DI CATEGORIA AGGIUNTIVI OBBLIGATORI E VOLONTARI  
+
+Tabella 4-Indicatori di impatti ambientali di categoria aggiuntivi obbligatori e volontari.  
+
+![](images/4ee5c7b4aad613342a73355e83a0e354e3e302d97cd9e94ac8dd3da498694455.jpg)

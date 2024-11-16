@@ -1,0 +1,12 @@
+# Programme Information  
+
+ISO standard ISO 21930 and CEN standard EN 15804 serves as the  core Product Category Rules (PCR).  
+
+Product Category Rules (PCR): 2019:14 Version 1.3.3, 2024-12-20, Construction Products and  Construction Services, EN 15804:2012+A2:2019/AC:2021 for  Sustainability of Construction Works  
+
+PCR review was conducted by: The Technical Committee of the  International $\mathsf{E P D^{\mathrm{\textregistered}}}$  System. Review chair: Claudia A. Peña, University  of Concepción, Chile  
+
+EPDs within the same product category but registered in different  EPD programmes may not be comparable. For two EPDs to be  comparable, they must be based on the same PCR (including  the same version number) or be based on fully-aligned PCRs or  versions of PCRs; cover products with identical functions, technical  performances and use (e.g. identical declared/functional units);  have equivalent system boundaries and descriptions of data; apply  equivalent data quality requirements, methods of data collection,  and allocation methods; apply identical cut-off rules and impact  assessment methods (including the same version of character is ation  factors); have equivalent content declarations; and be valid at the  time of comparison.  
+
+![](images/6ab7151d0e3ef868626b27acc08fdf30f55a981d60d05735ad6afbe6d849ac87.jpg)  
+

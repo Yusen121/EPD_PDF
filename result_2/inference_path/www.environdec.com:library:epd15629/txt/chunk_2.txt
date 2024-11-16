@@ -1,0 +1,27 @@
+# General information  
+
+Programme information   
+![](images/da6fb78b1e74bba2e87380d94c8856a9037bc8826172a024391d3e66b31263f9.jpg)  
+
+☒  EPD verification by individual verifier  
+
+Third-party verifier: Matthew Fishwick from Fishwick Environmental Ltd.  
+
+![](images/42f590410f85ad8be1855f8345f71a5e08771a3ef3e99c88736bbb361a33670e.jpg)  
+
+Approved by: The International $\mathsf{E P D^{\mathrm{\textregistered}}}$  System  
+
+Procedure for follow-up of data during EPD validity involves third party verifier: 
+
+ ☐  Yes  ☒  No  
+
+[Procedure for follow-up the validity of the EPD is at minimum required once a year with the aim of  confirming whether the information in the EPD remains valid or if the EPD needs to be updated during  its validity period. The follow-up can be organized entirely by the EPD owner or together with the original  verifier via an agreement between the two parties. In both approaches, the EPD owner is responsible  for the procedure being carried out. If a change that requires an update is identified, the EPD shall be  re-verified by a verifier]  
+
+The EPD owner has the sole ownership, liability, and responsibility for the EPD.  
+
+EPDs within the same product category but registered in different EPD programmes, or not compliant  with EN 15804, may not be comparable. For two EPDs to be comparable, they must be based on the  same PCR (including the same version number) or be based on fully-aligned PCRs or versions of PCRs;  
+
+cover products with identical functions, technical performances and use (e.g. identical  declared/functional units); have equivalent system boundaries and descriptions of data; apply equivalent  data quality requirements, methods of data collection, and allocation methods; apply identical cut-off  rules and impact assessment methods (including the same version of character is ation factors); have  equivalent content declarations; and be valid at the time of comparison. For further information about  comparability, see EN 15804 and ISO 14025.  
+
+It is discouraged to use of the results of modules A1-A3 without considering the results of module C.  
+

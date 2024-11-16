@@ -1,0 +1,11 @@
+# Waste indicators  
+
+Final waste and output flows, refers to flows that are leaving the system of the LCA. In this LCA only  elementary flows (substances) are leaving the system. For the manufacturing, there are no such flows  for any type of asphalt. All waste equals zero due to the use of ecoinvent as the database, which already  accounts for the waste in the datasets.  
+
+# Output flow indicators  
+
+![](images/61f0952254f891f3f713ebb870e7484024033704cdc1235a7c9c7b98e4c2bcc4.jpg)  
+
+# Other environmental performance indicators  
+
+In accordance with EN  $15804{+}\mathsf{A}2$ , the biogenic carbon content of asphalt mixtures containing cellulose  has not been calculated due to the fact that the amount is less than  $5\;\%$  of the total mass of the final  product.

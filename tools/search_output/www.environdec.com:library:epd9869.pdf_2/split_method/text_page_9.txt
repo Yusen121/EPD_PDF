@@ -1,0 +1,15 @@
+A3:Manufacturing
+Manufacturing prosses comprises of mixing the chemicals using electric energy to form the paint. Then, the
+final products are quality checked and packaged for delivery.
+A4: Transport to Site
+Transport of final product to site is taken as the weight average values for transportation for the year of
+2022.
+System Boundary of the LCA Study
+Production
+Raw Materials Raw Material Transport
+Construction/Installation Transport to Site
+Packaging
+Manufacturing
+Deconstruction/Demolition Waste Processing Benefits and Loads
+System Boundary
+9

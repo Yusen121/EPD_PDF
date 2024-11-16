@@ -1,0 +1,13 @@
+Indicator Unit,A1-A3,A4,A5,,B1,B2,B3,B4,B5,B6,B7,C1,C2,C3,C4,D
+GWP-total GwP-fossil,kg CO2eq kg CO2eq,5.28E+00 5.87E+00,1.35E-01 1.35E-01,4.39E-01 3.42E-01,0.00E+00 0.00E+00,1.64E-01 1.62E-01,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.35E-01,7.62E-01,7.72E-01,-5.18E+00
+GWP- biogenic,kg CO2 eq,5.91E-02,5.50E-05,1.16E-01,0.00E+00,1.14E-03,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.35E-01 5.51E-05,1.26E-01 6.36E-01,7.72E-01 6.35E-05,-5.19E+00 1.94E-02
+GwP-Luluo,kg CO2 eq,1.58E-02,6.45E-05,4.83E-04,0.00E+00,6.33E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,6.45E-05,1.51E-04,5.88E-06,-4.17E-03
+AP,kg CFC11,1.34E-06,2.86E-09,4.05E-08,0.00E+00,2.93E-09,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.87E-09,3.39E-09,7.93E-10,-2.48E-08
+ODP,eq mol H+ eq,2.26E-02,4.23E-04,7.67E-04,0.00E+00,8.06E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,4.30E-04,9.65E-04,1.76E-04,-1.11E-02
+EP- freshwater,kgPeq,2.23E-03,9.22E-06,6.88E-05,0.00E+00,1.44E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,9.22E-06,6.65E-05,2.30E-06,-5.04E-04
+EP-marine EP-terrestrial,kg Neq,1.01E-02,1.44E-04,4.38E-04,0.00E+00,1.48E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.48E-04,1.58E-04,1.00E-04,-1.27E-03
+POCP,mol N eq kg NMVOC,5.28E-02 1.80E-02,1.52E-03 6.32E-04,1.93E-03 6.76E-04,0.00E+00 0.00E+00,1.28E-03 4.10E-04,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.56E-03 6.42E-04,1.66E-03 5.46E-04,8.56E-04 2.15E-04,-1.77E-02 -8.51E-03
+ADP- minerals&met,eq kg Sb eq,,,,,,,,,,,,,,,
+"als' ADP-fossil""",MJ,2.40E-05,4.24E-07,7.64E-07,0.00E+00,3.35E-07,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,4.24E-07,6.51E-06,3.71E-08,-9.94E-06
+WDP,m3 depriv.,1.45E+02 1.39E+00,1.86E+00 7.44E-03,4.56E+00 5.02E-02,0.00E+00 0.00E+00,3.71E+00 3.99E-02,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,1.87E+00 7.45E-03,1.18E+00 3.52E-02,1.42E-01 3.49E-02,-1.18E+02 5.09E+00
+Acronyms,"GWP-fossil = Global Warming Potential fossil fuels; GwP-biogenic = Global W/arming Potential biogenic; GWP-luluc = Global Warming Potentil land use and land usc change; ODP = Depletion potential of the stratospheric ozone layer; AP = Acidification potentisl, Accumulated Exccedance; EP-frechwater = Eutrophication potential, fraction of nutrients reaching freshwater end compartment; EP-marine = Eutrophication potential, fraction of nutrients reaching marine end compartment; EP-terrestrial = Eutrophication potentisl, Accumulated Exccedance; POCP",,,,,,,,,,,,,,,

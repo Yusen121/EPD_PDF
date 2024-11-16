@@ -1,0 +1,6 @@
+# 4. LCA Results  
+
+The results of the Life Cycle Assessment analysis are presented in table format. The first column in each table  indicates the name of the impact category and their measurement units are presented in the second column.  These tables show an amount at each life cycle stage to see the impact of different indicators on different stages.  Each impact can be understood as what is released through the production of the declared unit of the material—in  this case, $\mathtt{1}\,\mathtt{m}^{\mathtt{2}}$  plasterboard production. The benefits of reuse/recycling of the declared product is reflected in this  section.  
+
+The first impact in the table is global warming potential (GWP), which shows how much  $\complement_{2}$ is released at each    stage. Other impacts include eutrophication potential, acidification potential, ozone layer depletion, land use  related impacts, etc. The second table provides results for resource use and the third table is about the waste  produced during the production. The fourth and final table shows the results for the GWP-GHG indicator, which  is almost equivalent to the GWP-Total indicator mentioned previously. The only difference is that this indicator  excludes the biogenic carbon content by following a certain methodology.  
+

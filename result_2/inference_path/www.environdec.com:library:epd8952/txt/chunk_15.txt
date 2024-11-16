@@ -1,0 +1,7 @@
+# Differences compared to previous EPD  
+
+Data from an improved EcoBase backing have been integrated in the calculations. This improvement  means the replacement of a fossil-based ingredient for a bio-based ingredient.   Also, production data from a more recent year (2022) has been integrated in the calculations.  
+
+# References  
+
+General Programme Instructions of the International $\mathsf{E P D^{\mathrm{\textregistered}}}$  System. Version 4.0.  PCR 2019:14. Version 1.3.3 c-PCR-004 Resilient, textile and laminate floor coverings (EN 16810).

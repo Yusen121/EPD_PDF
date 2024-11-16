@@ -1,0 +1,17 @@
+Composition of Product
+Product Components Weight, % Post Consumer Material Renewable Material
+Weight, % Weight, %
+Extender 60-70 0 0
+Water 20-30 0 0
+Emulsion 0-5 0 0
+Others Rest 0 0
+Packaging Contents
+Product Components Weight, kg Post Consumer Material Renewable Material
+Weight, % Weight, %
+PPCP Bucket 0.033 0 0
+PE Tape 0.0004 0 0
+Information on Biogenic Carbon Content According to EN15804+A2
+Biogenic Carbon Content Unit Quantity
+Biogenic carbon content in product kg C 0
+Biogenic carbon content in packaging kg C 0
+11

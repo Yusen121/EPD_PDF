@@ -1,0 +1,25 @@
+RESOURCEUSEINDICATORSPER1m²ofPLASTERBOARD,
+Parameter,Unit,A1-A3,A4,A5,B1-B7,C1,C2,C3,C4,D
+PERE,MJ,"7,57E+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,00E+00","4,86E+00","0,0OE+00"
+PERM,MJ,"4,86E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","-4,86E+00","0,00E+00"
+PERT,M],"1,24E+01","0,00E+00","0,0OE+00","0,00E+00","0,OOE+00","0,00E+00","0,OOE+00","0,00E+00","0,00E+00"
+PENRE,MJ,"1,72E+01","0,0OE+00","0,0OE+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","5,07E-02","0,00E+00"
+PENRM,MJ,"5,07E-02","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","-5,07E-02","0,00E+00"
+PENRT,MJ,"1,72E+01","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00"
+SM,kg,"0,0OE+00","0,0OE+00","0,0OE+00","0,0OE+00","0,0OE+00","0,00E+00","0,0OE+00","0,0OE+00","0,0OE+00"
+RSF,M],"0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,00E+00","0,0OE+00","0,0OE+00","0,00E+00","0,00E+00"
+NRSF,M],"0,0OE+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00"
+FW,m3,"3,24E-02","1,17E-03","2,72E-06","0,00E+00","0,0OE+00","3,68E-04","0,00E+00","1,37E-03","0,00E+00"
+Legend,PERE: Use of renewable primary energy excluding renewable primary energy resources used as raw materials; PERM: Use of renewable primary energy resources used as raw materials; PERT: Total use of renewable primary energy resources; PENRE: Use of non-renewable,,,,,,,,,
+ofrenewablesecondaryfuels;NRSF:Useofnon-renewablesecondaryfuels;FW:Useof netfreshwater,
+WASTE&OUTPUTINDICATORSPER1m²ofPLASTERBOARD,
+Parameter,Unit,A1-A3,A4,A5,B1-B7,C1,C2,C3,C4,D
+HWD,kg,"1,10E-03","1,61E-04","6,18E-08","0,00E+00","0,00E+00","5,62E-05","0,00E+00","1,58E-05","0,00E+00"
+NHWD,kg,"1,87E-01","5,00E-01","9,80E-03","0,00E+00","0,00E+00","1,11E-01","0,00E+00","8,50E+00","0,00E+00"
+RWD,kg,"2,08E-05","1,26E-06","7,88E-10","0,00E+00","0,00E+00","7,37E-07","0,00E+00","1,90E-07","0,00E+00"
+CRU,kg,"0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,00E+00"
+MFR,kg,"0,0OE+00","0,00E+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,00E+00"
+MER,kg,"0,0OE+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,OOE+00"
+EE (Electrical),M],"0,OOE+00","0,00E+00","0,00E+00","0,0OE+00","0,00E+00","0,00E+00","0,00E+00","0,0OE+00","0,OOE+00"
+EE (Thermal),M],"0,0OE+00","0,0OE+00","0,0OE+00","0,00E+00","0,00E+00","0,0OE+00","0,0OE+00","0,0OE+00","0,0OE+00"
+Legend,"energy,Thermal.","HWD:Hazardous waste disposed,NHWD:Non-hazardous waste disposed,RWD:Radioactive waste disposed,CRU:Components for",,,,"reuse,MFR:Materialforrecycling,MER:Materials forenergyrecovery,EE(Electrical):Exported energy electrical,EE(Thermal):Exported",,,,

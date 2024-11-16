@@ -1,0 +1,7 @@
+Wastetype,Amount,Unit
+Hazardous waste to incineration with energy recovery,8.40E-03,kg/m2
+Non-hazardouswastetoincineration,4.10E-03,kg/m2
+Non-Hazardouswastetolandfill,4.55E-04,kg/m2
+Hazardous waste to recycling,2.40E-03,kg/m2
+Non-hazardouswastetoexternalrecycling,2.00E-01,kg/m2
+Hazardouswastewatertoexternaltreatment,8.57E-02,kg/m2

@@ -1,0 +1,13 @@
+# Content information  
+
+![](images/92a67b2890a7b060d8534906998354d33cad0c0b5246e2383fd8aacdb8dfa939.jpg)  
+
+According to PCR 2019:14 v1.3.3 , several sets of results, reflecting different products, are not allowed  to be declared in the same EPD. However, similar products from a single or several manufacturing sites  covered by the same PCR and manufactured by the same company with the same major steps in the  core processes may be grouped and thereby included in the same EPD;  
+
+The results of a worst case product (Topaz 70) will be declared in this EPD.  
+
+The variation in GWP-GHG results for modules A1-C4 between included products and the declared  product goes from  $15-23\%$ .  
+
+The components for  Topaz 70 are detailed here:  
+
+![](images/ef4ce0b1cb88d63e8197232486dd12b8493787aefd10f385950b6b8f73192ff5.jpg)

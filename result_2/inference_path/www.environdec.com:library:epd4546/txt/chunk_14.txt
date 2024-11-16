@@ -1,0 +1,17 @@
+# LCA Information  
+
+Functional Unit: $\mathtt{1}\,\mathtt{m}^{\mathtt{2}}$  of plasterboard with thickness 12,5 mm. The product weights vary and the weights of the products  are provided in the technical specifications table.  
+
+Time Representative ness:  2023 (12 months)  
+
+Database(s) and LCA Software:  Ecoinvent 3.9.1 and SimaPro 9.5  
+
+System Boundaries:  Cradle to grave and module D  $(\mathsf{A}+\mathsf{B}+\mathsf{C}+\mathsf{D})$ . Human activities such as employee transportation and  infrastructure of the production site are excluded.  
+
+Reference Service Life:   Since there are no influences on ageing of the gypsum boards during use following the rules of  engineering. According to /BBSR2017/ a service life of at least 50 years can be considered for gypsum plasterboards in  general.  
+
+![](images/5fb05b2cb0326f8cdaaa0d859f063e21f3a5774abf4136dea8249409d0d9912f.jpg)  
+
+# Geographical Scope  
+
+The geographical scope of this EPD is global.

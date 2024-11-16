@@ -1,0 +1,20 @@
+# LCA information  
+
+Functional unit / declared unit:  $1{\mathsf{m}}^{2}$  of floor covering with a reference service life (RSL) of 1 year for  specified characteristics application and use areas according to ISO 1307 and EN ISO 10874.  Reference service life: 1 year  
+
+Time representative ness: 2022  
+
+Database(s) and LCA software used: Ecoinvent 3.9.1, Simapro 9.5.0.2, EN 15804 reference package  based on EF 3.1  
+
+Description of system boundaries: Cradle to grave and module D  $(\mathsf{A}+\mathsf{B}+\mathsf{C}+\mathsf{D})$  
+
+System diagram:  
+
+![](images/dbe0903e2cdb11cf637fbd899a9fb5a3d3976a23f3ffa004a5e5773160ad24f4.jpg)  
+
+More information: The products are classified in accordance with EN ISO 10874, (previously EN 685)  and in reference to the FCSS (Floor Covering Standard Symbols) to be used in all professional areas  which require class 33 or less.  
+
+Modules declared, geographical scope, share of specific data (in GWP-GHG indicator) and data  variation:  
+
+![](images/b1ac9d883c84db90c12a6f0283d212ff6c8884cbed9934d47b9688f1b0f0b599.jpg)  
+

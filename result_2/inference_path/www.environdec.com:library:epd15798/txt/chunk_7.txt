@@ -1,0 +1,73 @@
+# Informazioni sull’LCA  
+
+L’unità dichiarata è:   1 $\mathfrak{m}^{3}$  di calcestruzzo  
+
+Rappresentatività temporale: anno di riferimento  2023   Database e Software impiegati: GCCA EPD Tool, ver. 4.2 - https://www.concrete-epd-tool.org/intl .   Global Cement and Concrete Association (GCCA),  https://gccassociation.org/ ,  Paddington Central,  6th Floor, 2 Kingdom Street, London, W2 6JP - United Kingdom, Tel. $+44$  (0)20 3580 4286,  info@gccassociation.org .  
+
+![](images/517db79ace3fb188936e2b2933644319e6166b5ca4f188ff61915498f7cc46ed.jpg)  
+
+LCA Model (Quantis, Losanna), International version ver 4.2, 2023-12-18.  
+
+Database: Ecoinvent ver 3.5.  
+
+Confini di Sistema: opzione b): dalla culla al cancello con opzioni”, “cradle to gate with options”, all’interno del  quale sono inseriti i moduli:  A1, A2, A3, B1, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4 e D.  
+
+![](images/1c16ce0644a8c664589d5493e4541ceb70b981719f83986b27014a56bd26f54f.jpg)  
+Figura 3. Confini del sistema.  
+
+In figura 3 sono riportati i moduli A1, A2, A3, relativi alla fase di produzione. I moduli facoltativi A4 ed A5, identificati  in figura con “ ND ”, moduli “ non dichiarati ” (“not declared”) sono stati esclusi dallo studio finale in quanto  ammissibile farlo. I moduli A1, A2, A3 ed eventualmente A4 ed A5 qualora siano considerati, sono gli unici ad  essere di competenza diretta del produttore. Gli altri moduli (B1-B7, C1-C4, D) che devono essere  obbligatoriamente dichiarati nello studio LCA, come indicato nella UNI EN 15804, hanno qui una impostazione di  default definita da Quantis. Per gli ulteriori dettagli si rimanda allo studio LCA di carattere generale sviluppato da  Quantis e al file di dettaglio (LCI, LCIA, LCA results) generato dal sistema GCCA-Tool stesso.  
+
+Nel Sistema confluiscono i dati relativi alle quattro fasi previste nell’LCA quali:  
+
+•  Fase di produzione  (A1, A2, A3) ; 
+
+ •  Fase di costruzione, se dichiarata (A4, A5);  
+
+ •  Fase d’uso  (B1, B2, B3, B4, B5, B6, B7);  
+
+ •  Fine vita  (C1, C2, C3 e C4) ;  
+
+ •  Recupero delle risorse  (D).  
+
+All’interno della  Fase di produzione  rientrano i seguenti dati relativi alla:  
+
+•  Quantità di risorse utilizzate durante la fase di produzione (cemento, aggregati, additivi e acqua); 
+
+ •  Trasporto delle risorse fino all’impianto produttivo; 
+
+ •  Consumi elettrici ${\sf e}/{\sf o}$  energetici per la produzione: per la modellizzazione dell’elettricità si utilizza il residual mix  nazionale fornito da AIB relativo all’anno di riferimento, adottando il criterio numero 3 del par. 4.8.1 della PCR  2019:2014. Il mix energetico impiegato ha un impatto climatico pari  a 7,62 E -01 kgCO 2  eq/kWh .  
+
+ •  Flussi in uscita (rifiuti e componenti per il riutilizzo).  
+
+Sono esclusi da tutti I processi descritti gli impatti inerenti alla costruzione e l’utilizzo delle strutture e degli impianti  utilizzati perla produzione del calcestruzzo.  
+
+Gli impatti relativi allo smaltimento dei rifiuti, sono modellati secondo il principio di allocazione Polluters Pays (PP),  “chi inquina paga”.  
+
+All’interno della  Fase di costruzione  ( se dichiarata ) entrano principalmente i dati del:  
+
+•  Consumo di combustibile impiegato per il trasporto del materiale fino al cantiere.  
+
+All’interno della  Fase d’uso  confluiscono i dati relativi alla:  
+
+•  Metodologia per la quantificazione del processo di ricarbonatazione; 
+
+ •  Tipologia dell’opera all’interno della quale è utilizzato il calcestruzzo.  
+
+Nella  Fase di fine vita  rientrano i   dati della:  
+
+•  Quantità di polveri emesse durante la fase di demolizione; 
+
+ •  Percentuale potenziale di riciclaggio del materiale; 
+
+ •  Metodologia per la quantificazione del processo di ricarbonatazione durante la demolizione e il deposito in  discarica.  
+
+Nella  Fase di recupero delle risorse  entrano i dati relativi al potenziale recupero del materiale.  
+
+In generale, in conformità con gli standard di riferimento, i criteri di cut-off sono fissati all’ $1\%$  dei flussi di massa e  di energia.  
+
+Si precisa che nelle tabelle in cui sono riportati i risultati, i valori nulli sono indicati con la cifra $"{\mathfrak{o}}"$ , quelli  non disponibili con il tratto “-”.  
+
+Ulteriori informazioni :  I criteri per l'esclusione dei dati di input e di output, “criteri di cut-off”, sono fissati all’ $1\%$ ,  in termini di massa, energia e rilevanza ambientale. Questo vuol dire che un processo può essere trascurato se il  suo contributo è inferiore all’ $1\%$  della massa totale, dell'energia primaria e dell'impatto totale. Vengono comunque  presi in considerazione tutti i processi per i quali i dati sono disponibili, anche se con un contributo inferiore all’ $1\%$ .  L'allocazione viene evitata quando possibile dividendo il sistema in sottosistemi. Quando l'allocazione non può  essere evitata, viene applicata l'allocazione di massa. Per la modellizzazione dei rifiuti si applica il principio: “chi  inquina paga”.  
+
+Il presente report risulta valido per tutti i prodotti elencati in copertina e i risultati dichiarati si riferiscono  al prodotto più rappresentativo (opzione 2, par. 2.2.2 della PCR 2019:14 ver. 1.3.2), indipendentemente  dall’uso che ne viene fatto, quindi per opere di ingegneria civile o infrastrutture, in quanto per il calcolo  degli indicatori si considera l’opzione più conservativa.  
+

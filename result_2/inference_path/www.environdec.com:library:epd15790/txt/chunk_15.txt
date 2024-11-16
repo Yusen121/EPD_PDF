@@ -1,0 +1,14 @@
+# SUMMARY  
+
+For the evaluation of impact, the declared unit of concrete is $\pmb{1}\ \pmb{\mathfrak{m}}^{3}$ . The concrete studied is  CLS Rck30 S4 XC2 D25 CEM IV/A 42,5 R-SR CAM.   The reference period for the collected data is the  year 2023 . The total amount of concrete made, in the considered period, is $\mathbf{0}\,\mathbf{m}^{3}$ . According to UNI EN 15804:2012+A2:2019/AC2021 the study spans from “cradle to gate  with options”, with the modules: A1, A2, A3, B1, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4 e D. Exclusion of input and output data, i.e. “cut off criteria”, is fixed at  $1\%$ , in term  of mass, energy and environmental relevance. Thus, a process can be neglected if its contribution is minor to $1\%$  of the total mass, primary energy and total impact. However,  all processes for which data are available are considered, even though with a contribution minor than  $1\%$ . The production of concrete is modelled by primary data collected  in  Colabeton S.p.a Taurisano (LE)  the production site for the above said considered reference period. Allocation is avoided, whenever possible, by dividing the system into  sub-systems. When allocation cannot be avoided, mass allocation is applied. For the modeling of waste, the “Polluter pays principle” is applied. The environmental potential  impacts, for $1\ \mathsf{m}^{3}$   of concrete are listed below.  
+
+Table 10- Environmental Potential Impact for $\mathbf{1}\,\mathbf{m}^{3}$  of concrete  
+![](images/9425c71a42bab5d439e05b82fe5a85221ced3f0e3b69497cea51275df8458857.jpg)  
+
+![](images/e615be013980f07aa87693d4082c1e97c4d5994309ca0bc9e052dc53f7256dff.jpg)  
+
+![](images/aaf1e2a8ce8d528ce44f26d953afdb558861bed324835c50f53a1cbc361df7e6.jpg)  
+
+GPI:  General Programme Instructions for the International $\mathsf{E P D^{\mathrm{\textregistered}}}$ Database:  for evaluation   EPD Tool :  GCCA EPD Tool Version 4.2;  LCA Model:  international version, ver 4.2, 2023-12-18, Quantis (Lousanne, Swiss);  Type : Environmental Product Declaration (EPD).  
+
+![](images/4e80df3fe6e175a595dddf027eeb9b856db25408e0cd0d77d7f00f889933732a.jpg)  

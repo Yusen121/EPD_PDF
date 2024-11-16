@@ -1,0 +1,13 @@
+# System Boundary  
+
+![](images/62cdab041ec68eb609d513cd3ae60ffd1443d88b317ddbc48aed3be31a0e37f1.jpg)  
+
+# A1 - Raw Material Supply  
+
+Production starts with raw materials mainly locally sourced, but some transported from other parts of the world. ‘Raw  material supply’ includes raw material extraction and pre-treatment processes before production. The stage covers the supply  (quarrying) and production of all components and additives. The use of electricity, fuel and auxiliary materials in production  is also taken into account.  
+
+# A2 - Raw Material Transport  
+
+Raw material transport from supplier to manufacturer is considered in raw material supply stage. The distances and routes  are calculated accordingly. Depending the manufacturer, locally supplied steel is transported via trucks and other supplies  come through seaway.  
+
+![](images/8bf83d95817b49e3631c83302d75e1105b2937cc65ae9725e3b32ce0a6dc9f2b.jpg)

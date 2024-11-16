@@ -1,0 +1,6 @@
+Group No,Group name,Mixturetypesin the group,Aggregate material type,"Aggregates,%","RA, %","Added binder content, %",Bindertypes(definitive)
+0.063,0.063- 2,VN
+6.,AC P (AC base) HMA,AC32PS;AC22PS; AC16PS;AC32PN; AC22PN;AC16PN; AC32PL;AC22PL; AC16PL,Dolomite/ Gravel,4,28,68,0,3.8,35/50;50/70;70/100
+7.,ACP(ACbase) withRAHMA,AC32PS;AC22PS;AC 16PS;AC32PN;AC 22PN;AC16PN;AC 32PL;AC22PL;AC16 PL,Dolomite/ Gravel,4,28,68,25,2.7,35/50;50/70;70/100
+14,AC16 PD (AC base-surf) HMA,AC 16 PD,Dolomite/ Gravel,8,32,60,0,5.2,70/100;100/150
+15,AC 16 PD (AC base -surf) withRAHMA,AC 16 PD,Dolomite/ Gravel,8,32,60,20,4.3,70/100;100/150

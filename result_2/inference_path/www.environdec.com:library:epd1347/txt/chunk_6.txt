@@ -1,0 +1,21 @@
+# System diagram:  
+
+![](images/cc788446ea0845b6f6917f4719f1dba1d6145c304bc1a2b419786103a7ab153c.jpg)  
+
+More information: The product is classified in accordance with EN ISO 10874, EN 685, EN ISO 11638  and in reference to the FCSS (Floor Covering Standard Symbols) to be installed in various areas of  application, such as: healthcare, education, commercial, education. The area of use according to the  ISO 10874 is very heavy (34) for commercial classification and heavy (43) for industrial classification  
+
+Modules declared, geographical scope, share of specific data (in GWP-GHG indicator) and data  variation:  
+
+![](images/49a9e2d0431057b07fb837790cbc8fe45a3ca0e365bb1b0924d0686d02a194e7.jpg)  
+
+Content information  
+![](images/a3dc6a8f8d7ba19ff5e9cca38af4527c8baacd80de77909b9bc5b61d22cfaf71.jpg)  
+
+According to PCR 2019:14 v1.3.3 , several sets of results, reflecting different products, are not allowed to be  declared in the same EPD. However, similar products from a single or several manufacturing sites covered by the  same PCR and manufactured by the same company with the same major steps in the core processes may be  grouped and thereby included in the same EPD;  The results of a worst case product Tapiflex Platinium 100 will be declared in this EPD.  
+
+The variation in GWP-GHG results for modules A1-A3 between included products and the declared product goes  from  $3\cdot13\%$ .  
+
+The components for Tapiflex Platinium 100   are detailed here :  
+
+![](images/5c4b0e6dd4ea9f61df1616ce498fb79e420ed2997ed2c31c89f2280a554f6548.jpg)  
+

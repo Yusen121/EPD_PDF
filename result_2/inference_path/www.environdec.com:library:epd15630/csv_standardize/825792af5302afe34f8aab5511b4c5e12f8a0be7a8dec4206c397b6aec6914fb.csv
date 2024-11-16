@@ -1,0 +1,6 @@
+Electricitygenerationsources,Datasetusedinthemodel,GWP-GHG(CO2 eq./kWh),Percentage in Zhejiang province
+Electricity from fossil fuel(1),CN:Electricityfromhard coal Sphera,1.11,72.23%
+Electricityfromhydropower,CN:Electricity from hydropowe0.00745,,5.63%
+Electricityfromnuclearpower,CN: Electricity from nuclear power Sphera,0.00446,17.32%
+Electricityfromwindpower,CN:Electricityfromwind powerSphera,0.0171,1.16%
+Electricityfromphotovoltaic,CN:Electricityfrom photovoltaicSphera,0.0288,3.67%

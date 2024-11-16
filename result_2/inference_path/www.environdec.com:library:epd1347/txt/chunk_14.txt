@@ -1,0 +1,19 @@
+# Waste production and output flows  
+
+Waste production  
+![](images/62bcff04943ee5f39cf03e01664f8e5cd1f16af205dca171d53f1eb5a11cf4ec.jpg)  
+
+Output flows  
+![](images/58f3ce3e57fe291cafc461f7cae208dd2110f51475cda4489406f3b6be15664d.jpg)  
+
+Additional indicator  
+![](images/13836fcd1d2a34e361ffe0cc7f5d4e194213645b727e42bbc4e9b060e1f6d02c.jpg)  
+1     GWP-GHG is the sum of GWP-Fossil and GWP-LULUC indicator  
+
+# Variability of LCA results  
+
+The declared environmental impacts are the impacts of the worst case product. The data was  collected for the two sites of production. The variability of the results was calculated by doing a  sensitivity analysis as recommended by the EN $15804{+}\mathsf{A}2/\mathsf{C}\mathsf{N}$ .  
+
+Variation of environmental impacts for all indicators greater than  $10\%$  for A1-C modules  
+
+![](images/ec632fabd16b760a4841b0f85aebdc77521904fdea6ddb240a4e1ce6c9c3b0f4.jpg)

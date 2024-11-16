@@ -1,0 +1,15 @@
+# Construction Process Stage  
+
+A4:  This stage is relevant to the transportation of the final product from the  factory gate to the customers.  
+
+A5.  This stage includes the adhesive mortar and water usage in the  construction site. For 1 tonne sanitaryware installation;  $150~\mathsf{k g}$  mortar and  $25~\mathsf{k g}$  plastic usage was assumed.  
+
+# Use Stage  
+
+B1:  Sanitaryware do not cause any emissions in the use stage because of the  inert feature.  
+
+B2:  Usage of detergent containing stain remover or neutral lowsulphate and  rinsing with tap water after cleaning was assumed. 2,5 L detergent and 5 L  water use was assumed to wash 1 tonne sanitaryware.  
+
+B3-B5:  Sanitaryware do not require any repairment during the use phase and  therefore no impacts should be declared.  
+
+B6-B7:  Sanitaryware do not require any water and energy in the use phase  and therefore no impacts ocurred in this module.

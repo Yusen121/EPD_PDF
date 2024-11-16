@@ -1,0 +1,15 @@
+,"CLSRck40S4XC2D25CEMIV/A42,5R-SRCAM",,,,,,,,,,,,,,
+EP -marine,kg N eq.,8.97 E-04,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,3.34 E-05,8.84 E-05,2.15 E-04,2.87 E-05,-3.87 E-04
+EP -terrestrial,mol di N eq.,2.27 E+00,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,4.44 E-01,1.14 E-01,7.45 E-02,8.90 E-02,-2.52 E-01
+POCP,kg NMVOC eq.,5.39 E-01,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,1.22 E-01,3.76 E-02,2.10 E-02,2.61 E-02,-6.37 E-02
+ADP-minerals&metals,kg Sb eq.,1.75 E-04,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,2.66 E-06,1.58 E-05,4.64 E-06,2.82 E-06,-1.63 E-04
+ADP-fossil,MJ,1.72 E+03,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,1.30 E+02,1.34 E+02,7.75 E+01,7.22 E+01,-1.63 E+02
+WDP,m3 kg CO2 eq.,9.06 E+01,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,7.67 E-01,1.16 E+00,1.09 E+00,3.49 E+00,-2.77 E+01
+GWP-GHG,,2.77 E+02,ND,ND,-2.90 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,8.99 E+00,8.73 E+00,4.12 E+00,-2.23 E+00,-1.43 E+01
+PM,disease incidence,7.98 E-06,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,2.45 E-06,7.80 E-07,3.57 E-07,4.63 E-07,-1.18 E-06
+IRP,,6.37 kBq U235 eq. E+00,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,6.08 E-01,7.66 E-01,8.31 E-01,3.33 E-01,-1.33 E+00
+ETP - fw,,4.09 CTUe. E+01,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,1.76 E+00,2.34 E+01,1.62 E+00,1.36 E+00,-6.90 E+00
+HTP-c,,CTUh E-07,8.69 ND,ND,E+00,0.00 0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,6.36 E-08,1.02 E-07,6.45 E-08,2.27 E-08,-3.41 E-07
+HTP -nc,,1.75 CTUh E-05,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,2.46 E-07,1.40 E-06,2.97 E-07,1.45 E-07,-2.03 E-06
+SQP,,4.14 adimentional E+02,ND,ND,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,0.00 E+00,7.71 E+00,2.18 E+02,6.33 E+01,1.35 E+02,-2.14 E+02
+ACRONYMS,"GWP= Global Warming Potential; luluc= land use and land use change; ODP = Depletion potential of the stratospheric ozone layer; AP= Acidification Potential; EP- freshwater= Eutrophication Potential, fraction of nutrients reaching freshwater end compartment; EP- marine= Eutrophication Potential, fraction of nutrients reaching marine end compartment; EP-terrestrial= Eutrophication Potential;POCP= Formation Potential of tropospheric ozone;ADP-minerals&metals= Abiotic depletion potential for non-fossil resources; ADP-Fossil=Abiotic depletion potential for non-fossil resources;WDP=Water depletionPotential;GHG=GreenHouse Gasses;PM=Potential incidence of disease due to Particulate Matters Emission; IRP = lonizing radiation potential (human exposure efficiency relative to U235); ETP-fw=Potential Eco Toxicity for",,

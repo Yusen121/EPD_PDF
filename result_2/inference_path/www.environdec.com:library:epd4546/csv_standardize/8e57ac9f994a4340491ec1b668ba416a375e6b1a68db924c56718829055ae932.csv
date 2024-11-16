@@ -1,0 +1,3 @@
+TransportMode,Type
+Road,Vehicle: Lorry SizeClass:>32metricton EmissionStandard:EURO5 Fuel Type: Diesel
+Sea,Vehicle: Container Ship DWT (Load Capacity): 43000 tonnes Fuel Type:Heavy Fuel Oil

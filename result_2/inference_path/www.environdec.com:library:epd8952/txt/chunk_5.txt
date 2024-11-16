@@ -1,0 +1,28 @@
+# LCA information  
+
+Functional unit / declared unit:  $1{\mathsf{m}}^{2}$  of floor covering with a reference service life (RSL) of 1 year for  specified characteristics application and use areas according to ISO 1307 and EN ISO 10874.  Reference service life: 1 year  
+
+Time representative ness: 2022  
+
+Database(s) and LCA software used: Ecoinvent 3.9.1, Simapro 9.5.0.2, EN 15804 reference package  based on EF 3.1  
+
+Description of system boundaries: Cradle to grave and module D  $(\mathsf{A}+\mathsf{B}+\mathsf{C}+\mathsf{D})$  
+
+System diagram:  
+
+![](images/b22a7d06c46921d98c967ebee1c52bde90bb7752e6818ff7e3642b45374a05d6.jpg)  
+
+More information: The products are classified in accordance with EN ISO 10874, (previously EN 685)  and in reference to the FCSS (Floor Covering Standard Symbols) to be used in all professional areas  which require class 33 or less.  
+
+Modules declared, geographical scope, share of specific data (in GWP-GHG indicator) and data  variation:  
+
+![](images/88a70470996752e7a51f99bebb7f1e2ecb92fcce9e7fb7293963b86420e2a279.jpg)  
+
+Content information  
+![](images/c4934021a87e3a54ea9346ae28a1c2bbb1e160e53e89ce69647c04579912b6be.jpg)  
+
+Chemical composition for above mentioned products is presented in the following table:  
+
+![](images/9312928a846b228778e626a1724e6481d1f63db22c0a9019f838418db102f1a8.jpg)  
+\*EcoBase contains up to $82\%$  pre-consumer recycled chalk  
+

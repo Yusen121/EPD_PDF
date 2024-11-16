@@ -1,0 +1,5 @@
+# Allocation:  
+
+Allocation rules for co-products are mentioned in the PCR. In this study, there are no co-products  produced. No co-product allocation has been applied in this study i.e. all burdens are allocated to the  final studied product. For the allocation of waste, module D calculation, and scarp, this study strictly  follows the PCR.  
+
+For the post-consumer materials (secondary polymer), they are bought from the third parties and the  environmental burden from the waste material of last life cycle to the ready-to-use secondary material  is considered. In the end-of-life stage, the environmental impacts of the entire waste product are  considered (including the scarp contained therein), e.g., in the case of incineration, the environmental  impacts of all materials burned are considered. For the calculation of Module D, it only considered  environmental benefits from primary materials contained in the product, not calculated benefits from the  post-consumer material part.

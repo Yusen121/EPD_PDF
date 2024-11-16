@@ -1,0 +1,14 @@
+Indicator,Unit A1-A3,A4,A5,B1,B2,Resultsperfunctionalordeclaredunit-(EndofLife->Recycling),C4,D
+,B3,B4,B5,B6,B7,C1,C2,C3
+PERE,"MJ,netCV",4.34E+01,2.90E-02,2.89E+00,0.00E+00,6.87E-01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.90E-02,1.81E+01,6.10E-03,1.86E+01
+PERM,"MJ,net CV",3.60E+00,0.00E+00,-1.47E+00,0.00E+00,4.50E-03,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+PERT,"MJ,net CV",4.70E+01,2.90E-02,1.42E+00,0.00E+00,6.87E-01,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.90E-02,1.81E+01,6.10E-03,1.86E+01
+PENRE,"MJ,net CV",5.40E+01,1.86E+00,1.83E+00,0.00E+00,3.64E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.87E+00,1.18E+00,1.49E-01,-1.08E+02
+PENRM,"MJ,net CV",4.88E+01,0.00E+00,1.46E+00,0.00E+00,2.53E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.00E+01
+PENRT,"MJ,net CV",1.03E+02,1.86E+00,3.29E+00,0.00E+00,3.64E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.87E+00,1.18E+00,1.49E-01,-8.81E+01
+SM,kg,2.67E+00,0.00E+00,8.02E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-5.92E-01
+RSF,,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,-9.78E-25
+,"MJ,net CV",,,,,,,,,,,,,,,
+NRSF FW,"MJ,net CV gw",0.00E+00 -1.09E-01,0.00E+00 -8.88E-04,0.00E+00 3.47E-03,0.00E+00 0.00E+00,0.00E+00 -2.24E-02,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 0.00E+00,0.00E+00 -8.89E-04,0.00E+00 -1.83E-03,0.00E+00 -1.00E-04,-1.15E-23
+,,,,,,,,,,,,,,,,1.99E-01
+Acronyms,PERE=Use of renewable primary energy excluding renewable primary energy resources used asraw materials;PERM=Use of renewable primary energy resources used asraw materials;PERT=Total use of renewable primary energy resources; PENRE =Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw materials; PENRM = Use of non-renewable primary energy resources used as raw materials; PENRT=Totaluse of non-renewableprimary energyre-sources;SM=Use of secondary material;RSF=Use ofrenewable secondary fuels;NRSF=Useofnon-renewable secondary fuels;FW=Useofnet freshwater,

@@ -1,0 +1,16 @@
+# Results 1  of the environmental performance indicators  
+
+Mandatory impact category indicators according to EN  $\pmb{15804+\pmb{\Delta}2}$ , EF 3.1  
+![](images/ca9d472e54a0e927e07fe98c390e615af3e53c35e58d224b5070be14867d871e.jpg)  
+\* The results of this environmental impact indicator shall be used with care as the uncertainties on these results are high or as  there is limited experienced with the indicator.  
+
+Environmental impact indicator GWP-GHG   
+![](images/f5f2ea48aec5b014184de818cd9af5a279365cfe0c1ec0ce2ddcd0f0b3d6204b.jpg)  
+
+Additional environmental impact indicators according to EN  $\pmb{15804+A2}$ , EF 3.1  
+![](images/d92d53e5425a390081e2e3c4c89b12dbc969be3e27ef5beb9745e8166f92925e.jpg)  
+\*The results of this environmental impact indicator shall be used with care as the uncertainties on these results are high or as  there is limited experienced with the indicator.  \*\*This impact category deals mainly with the eventual impact of low dose ionizing radiation on human health of the nuclear fuel  cycle. It does not consider effects due to possible nuclear accidents, occupational exposure nor due to radioactive waste disposal  in underground facilities. Potential ionizing radiation from the soil, from radon and from some construction materials is also not  measured by this indicator  
+
+Resource use indicators per functional unit 
+![](images/8c1ac19d74b4da22a3df455d0792271cca54bac75220beba715931732be4d955.jpg)  
+

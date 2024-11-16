@@ -1,0 +1,3 @@
+# Database(s) and LCA software used:  
+
+The life cycle assessment has been carried out using the software SimaPro 9.6. The database that  provided the inventory data was Ecoinvent version (3.9.1, Ecoinvent 3 – allocation, cut-off, EN 15804).  LCI data for bitumen was obtained from Eurobitume (2021a, 2021b). The selected potential  environmental impact categories comply with  EN 15804:2012+A2:2019/AC:2021 standard and are  aligned with the Environmental Footprint EF 3.1 method.

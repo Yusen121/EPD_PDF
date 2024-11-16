@@ -1,0 +1,17 @@
+,Resultsper functional ordeclaredunit incaseof Landfill-TapiflexPlatinium1oo,,,,,,,,,,,,,,,
+Indicator,Unit,A1-A3,A4,A5,B1,B2,B3,B4,B5,B6,B7,C1/1,C2/1,C3/1,C4/1,D/1
+GWP-total,kg CO2 eq.,6.12E+00,7.56E-01,1.09E+00,0.00E+00,9.19E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.84E-02,0.00E+00,3.12E-01,-5.15E-01
+GWP-fossil,kg CO2 eq.,6.05E+00,7.55E-01,1.05E+00,0.00E+00,8.64E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.84E-02,0.00E+00,2.58E-01,-4.64E-01
+GWP-biogenic,kg CO2 eq.,4.25E-02,2.41E-04,3.88E-02,0.00E+00,6.46E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,5.84E-06,0.00E+00,5.35E-02,-4.82E-02
+GWP- Luluc,kg CO2 eq.,3.10E-02,3.71E-04,3.49E-03,0.00E+00,4.94E-03,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,8.98E-06,0.00E+00,8.09E-06,-3.04E-03
+ODP,kg CFC 11 eq.,3.42E-06,1.65E-08,3.50E-07,0.00E+00,2.88E-09,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,3.99E-10,0.00E+00,1.03E-09,-3.37E-07
+AP,mol Ht eq.,3.30E-02,2.43E-03,5.24E-03,0.00E+00,5.50E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,5.99E-05,0.00E+00,2.34E-04,-2.72E-03
+EP-freshwater,kg P eq,1.61E-03,5.31E-05,2.84E-04,0.00E+00,4.44E-05,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.28E-06,0.00E+00,2.41E-06,-1.50E-04
+EP-freshwater,kg PO4 eq,4.94E-03,1.63E-04,8.72E-04,0.00E+00,1.36E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,3.94E-06,0.00E+00,7.40E-06,-4.60E-04
+EP-marine,kg N eq.,1.18E-02,8.31E-04,1.60E-03,0.00E+00,2.56E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.06E-05,0.00E+00,1.81E-03,-7.09E-04
+EP-terrestrial,mol N eq. kg NMVOC,6.63E-02,8.77E-03,1.08E-02,0.00E+00,1.26E-03,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.17E-04,0.00E+00,1.04E-03,-3.34E-03
+POCP,eq.,3.23E-02,3.64E-03,5.07E-03,0.00E+00,3.34E-04,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,8.94E-05,0.00E+00,4.53E-04,-1.97E-03
+ADP-minerals&metals*,kg Sb eq.,7.24E-05,2.50E-06,1.07E-05,0.00E+00,7.33E-07,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,6.04E-08,0.00E+00,7.29E-08,-6.99E-06
+ADP-fossil*,MJ,1.58E+02,1.07E+01,2.51E+01,0.00E+00,1.80E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.60E-01,0.00E+00,8.14E-01,-1.21E+01
+WDP,m3,7.66E+00,4.44E-02,1.08E+00,0.00E+00,2.19E-02,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,1.08E-03,0.00E+00,3.67E-03,-7.36E-01
+Acronyms,"potential of thestratosphericozonelayer;AP=Acidificationpotential,Accumulated Exceedance;EP-freshwater=Eutrophicationpotential,fractionofnutrientsreachingfreshwater end Formationpotential of troposphericozone;ADP-minerals&metals=Abioticdepletionpotential fornon-fossil resources;ADP-fossil =Abioticdepletionforfossil resourcespotential;WDp=Water",GWP-fossil =GlobalWarmingPotential fossil fuels;GWP-biogenic=GlobalWarmingPotentialbiogenic;GWP-luluc=GlobalWarmingPotential landuse and landusechange;ODP=Depletion,,,,,,,,"(user) deprivationpotential,deprivation-weighted water consumption",,,,,,

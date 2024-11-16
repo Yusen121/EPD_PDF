@@ -1,0 +1,3 @@
+# How To Read This EPD?  
+
+An Environmental Product Declaration (EPD) is an ISO Type III  Environmental Declaration based on ISO 14025 standard. An EPD  transparently reports the environmental performance of products  or services from a lifecycle perspective. The preparation of an EPD  includes different stages, from acquiring raw materials to the end  of life of the final product/service. EPDs are based on international  standards and consider the entire value chain. Additionally,  EPD is  a third-party verified document . This EPD includes the following  sections described below.
